@@ -2,10 +2,11 @@ import os as os
 import commands
 
 # hosts = ["web-docker01.qa32.uc1.pspr.co", "web-docker001.stage.phd1.pspr.co", "web-docker001.prod.lvd1.pspr.co", "web-docker01.prod.phd1.pspr.co"]
-hosts =["app-docker01.qa32.uc1.pspr.co", "app-docker01.stage.phd1.pspr.co", "app-docker001.prod.lvd1.pspr.co", "app-docker001.prod.phd1.pspr.co"]
+# hosts =["app-docker01.qa32.uc1.pspr.co", "app-docker01.stage.phd1.pspr.co", "app-docker001.prod.lvd1.pspr.co", "app-docker001.prod.phd1.pspr.co"]
 # hosts = ["app-docker01.qa32.uc1.pspr.co", "app-docker01.stage.phd1.pspr.co"]
 # hosts = ["web-docker001.stage.phd1.pspr.co", "app-docker01.stage.phd1.pspr.co"]
-# hosts =["app-docker01.qa32.uc1.pspr.co", "web-docker01.qa32.uc1.pspr.co", "app-docker01.stage.phd1.pspr.co", "web-docker001.stage.phd1.pspr.co", "app-docker001.prod.lvd1.pspr.co", "web-docker001.prod.lvd1.pspr.co", "app-docker001.prod.phd1.pspr.co", "web-docker01.prod.phd1.pspr.co"]
+# hosts =["app-docker01.qa32.uc1.pspr.co", "web-docker01.qa32.uc1.pspr.co", "app-docker01.stage.phd1.pspr.co", "web-docker001.stage.phd1.pspr.co"]
+hosts =["app-docker01.qa32.uc1.pspr.co", "web-docker01.qa32.uc1.pspr.co", "app-docker01.stage.phd1.pspr.co", "web-docker001.stage.phd1.pspr.co", "app-docker001.prod.lvd1.pspr.co", "web-docker001.prod.lvd1.pspr.co", "app-docker001.prod.phd1.pspr.co", "web-docker01.prod.phd1.pspr.co"]
 
 d = {}
 
@@ -19,16 +20,15 @@ for i in range(len(hosts)):
   for l in ll:
     if (l[:4] != "Warn"):
       av = l.split(":")
-      # print("APP: {0} >> VER: {1}".format(av[0],av[1]))
-
-      if av[0] in d.keys():
-        d[av[0]][i] = av[1]
-      else:
+      
+      if av[0] not in d.keys():
         d[av[0]] = [0, 0, 0, 0]
-        d[av[0]][i] = av[1]
-  print("*******")
+      
+      d[av[0]][(i/2)] = av[1]
 
 print(d)
+
+
 
 
 # # Sample shell Script
