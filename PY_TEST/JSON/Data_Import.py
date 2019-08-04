@@ -45,7 +45,10 @@ print(x1)
 d1 = d['quiz']['maths']
 
 for q in d1:
-    print(d1[q]['question'])
+    print("Question: {0}".format(d1[q]['question']))
+    for o in d1[q]['options']:
+        print(o)
+
+    print("Answer: {0}".format(d1[q]['answer']))
     
 print(d['quiz']['sport']['q1']['options'][0])
-
