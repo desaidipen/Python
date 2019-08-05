@@ -1,3 +1,13 @@
+# Dictionary with default values
+b = "The Quick Brown Fox Jumps Over The Lazy Dog"
+d = {}
+for c in b:
+    c = c.lower()
+    d[c] = d.get(c, 0) + 1    # >> Find value with key=c, if not use default value as 0.... Add 1 to it regardless.
+
+k = sorted(list(d.keys()))
+print(k)
+
 # Dictionary
 d = {'key1':'abc', 'key2':123, 'key3':'Rishan'}
 print(d['key1'])

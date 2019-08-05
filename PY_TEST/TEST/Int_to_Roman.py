@@ -30,10 +30,10 @@ class Solution(object):
                 roman += no.individuals(reminder, 'X', 'L', 'C')
             elif (reminder > 0 and i == 0):
                 roman += no.individuals(reminder, 'I', 'V', 'X')
-            
+             
         return roman
 
 num = 3999
 s = Solution()
 r = s.int_to_roman(num)
-print (f'INT: {num} >> ROMAN: {r}')
+print ('INT: {} >> ROMAN: {}'.format(num, r))
