@@ -1,0 +1,8 @@
+qa32:
+  api-docstore: 2.0.6
+stage:
+  api-docstore: 2.0.6
+uat:
+  api-docstore: 2.0.4
+prod:
+  api-docstore: 2.0.4
