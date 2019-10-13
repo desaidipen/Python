@@ -1,8 +1,10 @@
 import os
-process = os.popen("helm ls --kube-context=web-uat --namespace=uat")
-b = file.read(process)
 
-b1 = b.split("\n")[1:]
-for i in range(len(b1)-1):
-  c = b1[i].split("\t")
-  print ("{}-----{}-----{}".format(c[0].strip(" "), c[4].strip(" ").split("-")[-1], c[5]))
+# process = os.popen("helm ls --namespace=qa32 --kube-context web-qa | grep -v NAME | awk '{print $1, $10}' | sed 's/qa32-//g' | sort") # >> Separated by space
+process = os.popen("kubectl get pods --context web-qa -n qa32 -oyaml | grep -e 'image: docker.prosper.com' | sed 's|.*.com\/||g' | sort | uniq") # >> Separated by :
+helmLS = file.read(process)
+
+app_Ver = helmLS.split("\n")
+for i in range(len(app_Ver)-1):
+  temp = app_Ver[i].split(":") # Check command to select split types " " or ":"
+  print ("{}-----{}".format(temp[0], temp[1]))
