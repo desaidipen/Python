@@ -41,7 +41,6 @@ def assign_Version(env, envList, version_All):
 def print_table(version_All):
   keys = sorted(version_All.keys())
   max_len = len(max(keys, key=len)) + 1
-  max_len = len(max(keys, key=len)) + 1
 
   for i in range(len(keys) + 3):
     if (i == 0 or i == 2):
@@ -73,15 +72,15 @@ version_All = {}
 version_All = assign_Version("qa", find_k8s_version("web-qa", "qa32"), version_All)
 version_All = assign_Version("stage", find_k8s_version("web-stage", "stage"), version_All)
 version_All = assign_Version("uat", find_k8s_version("web-uat", "uat"), version_All)
-version_All = assign_Version("prod", find_k8s_version("web-uat", "uat"), version_All)
+version_All = assign_Version("prod", find_k8s_version("web-prod", "prod"), version_All)
 print_table(version_All)
 
-# version_All = {}
-# version_All = assign_Version("qa", find_k8s_version("app-qa", "qa32"), version_All)
-# version_All = assign_Version("stage", find_k8s_version("app-stage", "stage"), version_All)
-# version_All = assign_Version("uat", find_k8s_version("app-uat", "uat"), version_All)
-# version_All = assign_Version("prod", find_k8s_version("app-uat", "uat"), version_All)
-# print_table(version_All)
+version_All = {}
+version_All = assign_Version("qa", find_k8s_version("app-qa", "qa32"), version_All)
+version_All = assign_Version("stage", find_k8s_version("app-stage", "stage"), version_All)
+version_All = assign_Version("uat", find_k8s_version("app-uat", "uat"), version_All)
+version_All = assign_Version("prod", find_k8s_version("app-prod", "prod"), version_All)
+print_table(version_All)
 
 version_All = {}
 version_All = assign_Version("qa", find_app_version("app-docker02.qa32.uc1.pspr.co"), version_All)
