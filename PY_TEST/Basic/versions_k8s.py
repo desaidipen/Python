@@ -80,9 +80,9 @@ version_All = assign_Version("uat", find_k8s_version("app-uat", "uat"), version_
 version_All = assign_Version("prod", find_k8s_version("app-prod", "prod"), version_All)
 print_table(version_All)
 
-version_All = {}
-version_All = assign_Version("qa", find_app_version("app-docker02.qa32.uc1.pspr.co"), version_All)
-version_All = assign_Version("stage", find_app_version("app-docker01.stage.phd1.pspr.co"), version_All)
-version_All = assign_Version("uat", find_app_version("app-docker001.prod.lvd1.pspr.co"), version_All)
-version_All = assign_Version("prod", find_app_version("app-docker001.prod.phd1.pspr.co"), version_All)
-print_table(version_All)
+# version_All = {}
+# version_All = assign_Version("qa", find_app_version("app-docker02.qa32.uc1.pspr.co"), version_All)
+# version_All = assign_Version("stage", find_app_version("app-docker01.stage.phd1.pspr.co"), version_All)
+# version_All = assign_Version("uat", find_app_version("app-docker001.prod.lvd1.pspr.co"), version_All)
+# version_All = assign_Version("prod", find_app_version("app-docker001.prod.phd1.pspr.co"), version_All)
+# print_table(version_All)
