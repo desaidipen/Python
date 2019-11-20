@@ -3,7 +3,10 @@ sep = {"h": "-", "v": "|"}
 
 # K8S VERSIONS *******************************************************************************************************************************************************
 def find_k8s_version(context, namespace):
-  command = "kubectl get pods --context "+context+" -n "+namespace+" -oyaml | grep -e 'image: docker.prosper.com' | sed 's|.*.com\/||g' | uniq"
+  # command = "kubectl get pods --context "+context+" -n "+namespace+" -oyaml | grep -e 'image: docker.prosper.com' | sed 's|.*.com\/||g' | uniq"
+  command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].spec.containers[*].image}' | tr -s '[[:space:]]' '\n' | sed 's/docker.prosper.com\///g' | sort | uniq"
+  command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].status.containerStatuses[*].image}' | sed 's/docker.prosper.com\///g' | tr -s '[[:space:]]' '\n'  | sort | uniq"
+  
   process = os.popen(command)
 
   helm_Data = file.read(process)
