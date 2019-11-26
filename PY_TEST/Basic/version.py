@@ -9,8 +9,8 @@ class version(object):
   def __init__(self):
     self.version_All = {}
     parser = argparse.ArgumentParser(description="definition", usage="usage")
-    parser.add_argument("ver", help="Available sum")
-    args=parser.parse_args(sys.argv[1:2])
+    parser.add_argument("ver")
+    args=parser.parse_args(sys.argv[1:])
     getattr(self, args.ver)()
 
   # K8S VERSIONS *******************************************************************************************************************************************************
@@ -57,8 +57,8 @@ class version(object):
     keys = sorted(self.version_All.keys())
     max_len = len(max(keys, key=len)) + 1
 
-    for i in range(len(keys) + 3):
-      if (i == 0 or i == 2 or (i - (len(keys) + 2)) == 0):
+    for i in range(len(keys) + 4):
+      if (i == 0 or i == 2 or (i - (len(keys) + 3)) == 0):
         c = sep["v"] + sep["h"]*(max_len+2) + sep["v"] + (sep["h"]*44 + sep["v"])*4
       elif (i == 1):
         c = sep["v"] + "  APPLICATION" + " "*(max_len-11) + sep["v"] + "  QA32" + " "*(38) + sep["v"] + "  STAGE" + " "*(37) + sep["v"] + "  UAT" + " "*(39) + sep["v"] + "  PROD" + " "*(38) + sep["v"]
