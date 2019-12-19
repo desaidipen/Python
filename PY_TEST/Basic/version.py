@@ -8,10 +8,19 @@ sep = {"h": "-", "v": "|"}
 class version(object):
   def __init__(self):
     self.version_All = {}
-    parser = argparse.ArgumentParser(description="definition", usage="usage")
-    parser.add_argument("ver")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("type")
     args=parser.parse_args(sys.argv[1:])
-    getattr(self, args.ver)()
+
+    if (args.type == 'all'):
+      print ("K8S-WEB")
+      self.k8s_web()
+      print ("\nK8S-APP")
+      self.k8s_app()
+      print ("\nANSIBLE-DOCKER-WEB-APP")
+      self.docker()
+    else:
+      getattr(self, args.type)()
 
   # K8S VERSIONS *******************************************************************************************************************************************************
   def find_k8s_version(self, context, namespace):
