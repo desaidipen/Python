@@ -14,11 +14,13 @@ class version(object):
 
     if (args.type == 'all'):
       print ("K8S-WEB")
-      self.k8s_web()
+      self.web()
       print ("\nK8S-APP")
-      self.k8s_app()
-      print ("\nANSIBLE-DOCKER-WEB-APP")
+      self.app()
+      print ("\nAPP-DOCKER")
       self.docker()
+      print ("\nBATCH-DOCKER")
+      self.batch()
     else:
       getattr(self, args.type)()
 
@@ -76,14 +78,15 @@ class version(object):
         
       print(c)
 
-  def k8s_web(self):
+  def web(self):
+    self.version_All = {}
     self.assign_Version("qa", self.find_k8s_version("web-qa", "qa32"))
     self.assign_Version("stage", self.find_k8s_version("web-stage", "stage"))
     self.assign_Version("uat", self.find_k8s_version("web-uat", "uat"))
     self.assign_Version("prod", self.find_k8s_version("web-prod", "prod"))
     self.print_table()
 
-  def k8s_app(self):
+  def app(self):
     self.version_All = {}
     self.assign_Version("qa", self.find_k8s_version("app-qa", "qa32"))
     self.assign_Version("stage", self.find_k8s_version("app-stage", "stage"))
@@ -92,10 +95,19 @@ class version(object):
     self.print_table()
 
   def docker(self):
+    self.version_All = {}
     self.assign_Version("qa", self.find_app_version("app-docker02.qa32.uc1.pspr.co"))
     self.assign_Version("stage", self.find_app_version("app-docker01.stage.phd1.pspr.co"))
     self.assign_Version("uat", self.find_app_version("app-docker001.prod.lvd1.pspr.co"))
     self.assign_Version("prod", self.find_app_version("app-docker001.prod.phd1.pspr.co"))
+    self.print_table()
+
+  def batch(self):
+    self.version_All = {}
+    self.assign_Version("qa", self.find_app_version("batch-docker01.qa32.uc1.pspr.co"))
+    self.assign_Version("stage", self.find_app_version("batch-docker01.stage.phd1.pspr.co"))
+    self.assign_Version("uat", self.find_app_version("batch-docker01.prod.lvd1.pspr.co"))
+    self.assign_Version("prod", self.find_app_version("batch-docker001.prod.phd1.pspr.co"))
     self.print_table()
 
 version()
