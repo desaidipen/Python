@@ -1,4 +1,13 @@
 #!/usr/bin/env python2
+
+# Prints application versions across all environments
+# Command: $ python ..../version.py {type} {application}
+# E.g. 
+#   $ python ./version.py web web-graphql
+#   $ python ./version.py web all
+#   $ python ./version.py app svc-heloc-application
+#   $ python ./version.py app all
+
 import os
 import sys
 import argparse
@@ -10,7 +19,7 @@ class version(object):
     self.version_All = {}
     parser = argparse.ArgumentParser()
     parser.add_argument("type")
-    args=parser.parse_args(sys.argv[1:])
+    args=parser.parse_args(sys.argv[1:2])
 
     if (args.type == 'all'):
       print ("K8S-WEB")
@@ -19,8 +28,6 @@ class version(object):
       self.app()
       print ("\nAPP-DOCKER")
       self.docker()
-      print ("\nBATCH-DOCKER")
-      self.batch()
     else:
       getattr(self, args.type)()
 
@@ -65,18 +72,24 @@ class version(object):
 
   # PRINT TABLE *******************************************************************************************************************************************************
   def print_table(self):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('app')
+    args = parser.parse_args(sys.argv[2:])
+
     keys = sorted(self.version_All.keys())
     max_len = len(max(keys, key=len)) + 1
 
     for i in range(len(keys) + 4):
+      c = ""
       if (i == 0 or i == 2 or (i - (len(keys) + 3)) == 0):
         c = sep["v"] + sep["h"]*(max_len+2) + sep["v"] + (sep["h"]*44 + sep["v"])*4
       elif (i == 1):
         c = sep["v"] + "  APPLICATION" + " "*(max_len-11) + sep["v"] + "  QA32" + " "*(38) + sep["v"] + "  STAGE" + " "*(37) + sep["v"] + "  UAT" + " "*(39) + sep["v"] + "  PROD" + " "*(38) + sep["v"]
-      else:
+      elif (args.app == "all" or args.app == keys[i-3]):
         c = sep["v"] + "  " + keys[i-3] + " "*(max_len - len(keys[i-3])) + sep["v"] + "  " + self.version_All[keys[i-3]][0] + " "*(42-len(self.version_All[keys[i-3]][0])) + sep["v"] + "  " + self.version_All[keys[i-3]][1] + " "*(42-len(self.version_All[keys[i-3]][1])) + sep["v"] + "  " + self.version_All[keys[i-3]][2] + " "*(42-len(self.version_All[keys[i-3]][2])) + sep["v"] + "  " + self.version_All[keys[i-3]][3] + " "*(42-len(self.version_All[keys[i-3]][3])) + sep["v"]
         
-      print(c)
+      if (len(c) > 0):
+        print(c)
 
   def web(self):
     self.version_All = {}
@@ -98,16 +111,8 @@ class version(object):
     self.version_All = {}
     self.assign_Version("qa", self.find_app_version("app-docker02.qa32.uc1.pspr.co"))
     self.assign_Version("stage", self.find_app_version("app-docker01.stage.phd1.pspr.co"))
-    self.assign_Version("uat", self.find_app_version("app-docker001.prod.lvd1.pspr.co"))
+    self.assign_Version("uat", self.find_app_version("app-docker002.prod.lvd1.pspr.co"))
     self.assign_Version("prod", self.find_app_version("app-docker001.prod.phd1.pspr.co"))
-    self.print_table()
-
-  def batch(self):
-    self.version_All = {}
-    self.assign_Version("qa", self.find_app_version("batch-docker01.qa32.uc1.pspr.co"))
-    self.assign_Version("stage", self.find_app_version("batch-docker01.stage.phd1.pspr.co"))
-    self.assign_Version("uat", self.find_app_version("batch-docker01.prod.lvd1.pspr.co"))
-    self.assign_Version("prod", self.find_app_version("batch-docker001.prod.phd1.pspr.co"))
     self.print_table()
 
 version()
