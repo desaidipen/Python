@@ -18,6 +18,7 @@ sep = {"h": "-", "v": "|"}
 class version(object):
   def __init__(self):
     self.version_All = {}
+    self.version_Length = [6, 6, 6, 6]
     parser = argparse.ArgumentParser()
     parser.add_argument("type")
     args=parser.parse_args(sys.argv[1:2])
@@ -60,8 +61,6 @@ class version(object):
 
   # PARSE VERSIONS *******************************************************************************************************************************************************
   def assign_Version(self, env, appVersions):
-    self.version_All["APPLICATION"] = ["QA32", "STAGE", "UAT", "PROD"]
-
     for i in range(len(appVersions)-1):
       temp = appVersions[i].split(":")
 
@@ -78,6 +77,8 @@ class version(object):
         self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-"]
       try:
         self.version_All[temp[0]][ee] = temp[1]
+        if (len(temp[1]) >= self.version_Length[ee]):
+          self.version_Length[ee] = len(temp[1]) + 1
       except:
         NotImplemented
 
@@ -89,17 +90,25 @@ class version(object):
 
     for i in range(len(keys) + 3):
       if (i == 0 or i == 2 or (i - (len(keys) + 2)) == 0):
-        c = sep["v"] + sep["h"]*(max_len+2) + sep["v"] + (sep["h"]*44 + sep["v"])*4     # PRINTING HORIZONAL LINES
+        c = sep["v"] + sep["h"]*(max_len+2) + sep["v"]
+        for x in range(0, 4):
+          c = c + sep["h"]*(self.version_Length[x]+2) + sep["v"]
       else:
         c = sep["v"] + "  " + keys[tc] + " "*(max_len - len(keys[tc])) + sep["v"]
         for x in range(0, 4):
-          c = c + "  " + self.version_All[keys[tc]][x] + " "*(42-len(self.version_All[keys[tc]][x])) + sep["v"]
+          c = c + "  " + self.version_All[keys[tc]][x] + " "*(self.version_Length[x]-len(self.version_All[keys[tc]][x])) + sep["v"]
         tc += 1
     
       print(c)
+  
+  # RESET VERSIONS *******************************************************************************************************************************************************
+  def reset_All(self):
+    self.version_All = {}
+    self.version_All["APPLICATION"] = ["QA32", "STAGE", "UAT", "PROD"]
+    self.version_Length = [6, 6, 6, 6]
 
   def web(self):
-    self.version_All = {}
+    self.reset_All()
     self.assign_Version("qa", self.find_k8s_version("web-qa", "qa32"))
     self.assign_Version("stage", self.find_k8s_version("web-stage", "stage"))
     self.assign_Version("uat", self.find_k8s_version("web-uat", "uat"))
@@ -107,7 +116,7 @@ class version(object):
     self.print_table()
 
   def app(self):
-    self.version_All = {}
+    self.reset_All()
     self.assign_Version("qa", self.find_k8s_version("app-qa", "qa32"))
     self.assign_Version("stage", self.find_k8s_version("app-stage", "stage"))
     self.assign_Version("uat", self.find_k8s_version("app-uat", "uat"))
@@ -115,7 +124,7 @@ class version(object):
     self.print_table()
 
   def docker(self):
-    self.version_All = {}
+    self.reset_All()
     self.assign_Version("qa", self.find_app_version("app-docker02.qa32.uc1.pspr.co"))
     self.assign_Version("stage", self.find_app_version("app-docker01.stage.phd1.pspr.co"))
     self.assign_Version("uat", self.find_app_version("app-docker002.prod.lvd1.pspr.co"))
