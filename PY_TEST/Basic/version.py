@@ -28,13 +28,14 @@ class version(object):
       self.web()
       print ("\nK8S-APP")
       self.app()
-      print ("\nAPP-DOCKER")
-      self.docker()
     else:
       getattr(self, args.type)()
 
   # K8S VERSIONS *******************************************************************************************************************************************************
   def find_k8s_version(self, context, namespace):
+    self.version_All["APPLICATION"].append("{}/{}".format(context, namespace))
+    self.version_Length.append(len(" {}/{} ".format(context, namespace)))
+
     parser = argparse.ArgumentParser()
     parser.add_argument('app')
     args = parser.parse_args(sys.argv[2:])
@@ -88,14 +89,16 @@ class version(object):
     max_len = len(max(keys, key=len)) + 1
     tc = 0    # temp_count (looping for version_All directory keys)
 
+    envCount = len(self.version_All["APPLICATION"])
+
     for i in range(len(keys) + 3):
       if (i == 0 or i == 2 or (i - (len(keys) + 2)) == 0):
         c = sep["v"] + sep["h"]*(max_len+2) + sep["v"]
-        for x in range(0, 4):
+        for x in range(0, envCount):
           c = c + sep["h"]*(self.version_Length[x]+2) + sep["v"]
       else:
         c = sep["v"] + "  " + keys[tc] + " "*(max_len - len(keys[tc])) + sep["v"]
-        for x in range(0, 4):
+        for x in range(0, envCount):
           c = c + "  " + self.version_All[keys[tc]][x] + " "*(self.version_Length[x]-len(self.version_All[keys[tc]][x])) + sep["v"]
         tc += 1
     
@@ -103,14 +106,14 @@ class version(object):
   
   # RESET VERSIONS *******************************************************************************************************************************************************
   def reset_All(self):
-    self.version_All = {}
-    self.version_All["APPLICATION"] = ["QA32", "STAGE", "UAT", "PROD"]
-    self.version_Length = [6, 6, 6, 6]
+    self.version_All = {"APPLICATION": []}
+    self.version_Length = []
 
   def web(self):
     self.reset_All()
     self.assign_Version("qa", self.find_k8s_version("web-qa", "qa32"))
-    self.assign_Version("stage", self.find_k8s_version("web-stage", "stage"))
+    # self.assign_Version("stage", self.find_k8s_version("web-stage", "stage"))
+    self.assign_Version("stage", self.find_k8s_version("np", "stage"))
     self.assign_Version("uat", self.find_k8s_version("web-uat", "uat"))
     self.assign_Version("prod", self.find_k8s_version("web-prod", "prod"))
     self.print_table()
@@ -121,14 +124,6 @@ class version(object):
     self.assign_Version("stage", self.find_k8s_version("app-stage", "stage"))
     self.assign_Version("uat", self.find_k8s_version("app-uat", "uat"))
     self.assign_Version("prod", self.find_k8s_version("app-prod", "prod"))
-    self.print_table()
-
-  def docker(self):
-    self.reset_All()
-    self.assign_Version("qa", self.find_app_version("app-docker02.qa32.uc1.pspr.co"))
-    self.assign_Version("stage", self.find_app_version("app-docker01.stage.phd1.pspr.co"))
-    self.assign_Version("uat", self.find_app_version("app-docker002.prod.lvd1.pspr.co"))
-    self.assign_Version("prod", self.find_app_version("app-docker001.prod.phd1.pspr.co"))
     self.print_table()
 
 version()
