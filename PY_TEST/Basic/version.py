@@ -54,18 +54,11 @@ class version(object):
 
   # PARSE VERSIONS *******************************************************************************************************************************************************
   def assign_Version(self, appVersions):
-    if ("qa" in self.version_All["APPLICATION"][-1]):
-      ee = 0
-    elif ("stage" in self.version_All["APPLICATION"][-1]):
-      ee = 1
-    elif ("uat" in self.version_All["APPLICATION"][-1]):
-      ee = 2
-    else:
-      ee = 3
+    ee = len(self.version_All["APPLICATION"]) - 1
 
     for i in range(len(appVersions)-1):
       temp = appVersions[i].split(":")
-
+      
       if (temp[0] not in self.version_All):
         self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-"]
       try:
@@ -104,7 +97,7 @@ class version(object):
   def web(self):
     self.reset_All()
     self.assign_Version(self.find_k8s_version("web-qa", "qa32"))
-    # self.assign_Version("stage", self.find_k8s_version("web-stage", "stage"))
+    # self.assign_Version(self.find_k8s_version("web-stage", "stage"))
     self.assign_Version(self.find_k8s_version("np", "stage"))
     self.assign_Version(self.find_k8s_version("web-uat", "uat"))
     self.assign_Version(self.find_k8s_version("web-prod", "prod"))
