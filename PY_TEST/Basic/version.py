@@ -18,7 +18,7 @@ sep = {"h": "-", "v": "|"}
 class version(object):
   def __init__(self):
     self.version_All = {}
-    self.version_Length = [6, 6, 6, 6]
+    self.version_Length = []
     parser = argparse.ArgumentParser()
     parser.add_argument("type")
     args=parser.parse_args(sys.argv[1:2])
@@ -52,27 +52,19 @@ class version(object):
     helm_Data = file.read(process)
     return helm_Data.split("\n")
 
-  # DOCKER APP VERSIONS *******************************************************************************************************************************************************
-  def find_app_version(self, host):
-    command = "ssh "+host+" sudo docker inspect --format='{{.Config.Image}}' $(ssh "+host+" sudo docker ps | grep -v NAMES | awk '{print $NF}') | sed 's|.*/||g' | uniq"
-    process = os.popen(command)
-
-    helm_Data = file.read(process)
-    return helm_Data.split("\n")
-
   # PARSE VERSIONS *******************************************************************************************************************************************************
-  def assign_Version(self, env, appVersions):
+  def assign_Version(self, appVersions):
+    if ("qa" in self.version_All["APPLICATION"][-1]):
+      ee = 0
+    elif ("stage" in self.version_All["APPLICATION"][-1]):
+      ee = 1
+    elif ("uat" in self.version_All["APPLICATION"][-1]):
+      ee = 2
+    else:
+      ee = 3
+
     for i in range(len(appVersions)-1):
       temp = appVersions[i].split(":")
-
-      if (env == "qa"):
-        ee = 0
-      elif (env == "stage"):
-        ee = 1
-      elif (env == "uat"):
-        ee = 2
-      else:
-        ee = 3
 
       if (temp[0] not in self.version_All):
         self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-"]
@@ -111,19 +103,19 @@ class version(object):
 
   def web(self):
     self.reset_All()
-    self.assign_Version("qa", self.find_k8s_version("web-qa", "qa32"))
+    self.assign_Version(self.find_k8s_version("web-qa", "qa32"))
     # self.assign_Version("stage", self.find_k8s_version("web-stage", "stage"))
-    self.assign_Version("stage", self.find_k8s_version("np", "stage"))
-    self.assign_Version("uat", self.find_k8s_version("web-uat", "uat"))
-    self.assign_Version("prod", self.find_k8s_version("web-prod", "prod"))
+    self.assign_Version(self.find_k8s_version("np", "stage"))
+    self.assign_Version(self.find_k8s_version("web-uat", "uat"))
+    self.assign_Version(self.find_k8s_version("web-prod", "prod"))
     self.print_table()
 
   def app(self):
     self.reset_All()
-    self.assign_Version("qa", self.find_k8s_version("app-qa", "qa32"))
-    self.assign_Version("stage", self.find_k8s_version("app-stage", "stage"))
-    self.assign_Version("uat", self.find_k8s_version("app-uat", "uat"))
-    self.assign_Version("prod", self.find_k8s_version("app-prod", "prod"))
+    self.assign_Version(self.find_k8s_version("app-qa", "qa32"))
+    self.assign_Version(self.find_k8s_version("app-stage", "stage"))
+    self.assign_Version(self.find_k8s_version("app-uat", "uat"))
+    self.assign_Version(self.find_k8s_version("app-prod", "prod"))
     self.print_table()
 
 version()
