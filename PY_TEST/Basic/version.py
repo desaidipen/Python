@@ -60,7 +60,7 @@ class version(object):
       temp = appVersions[i].split(":")
       
       if (temp[0] not in self.version_All):
-        self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-"]
+        self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-", "-X-"]
       try:
         self.version_All[temp[0]][ee] = temp[1]
         if (len(temp[1]) >= self.version_Length[ee]):
@@ -93,6 +93,20 @@ class version(object):
   def reset_All(self):
     self.version_All = {"APPLICATION": []}
     self.version_Length = []
+
+  # def function_call(self, envList):
+  #   self.reset_All()
+  #   for key in envList.keys():
+  #     self.assign_Version(self.find_k8s_version(key, envList[key]))
+  #   self.print_table()
+
+  # def web(self):
+  #   envList = {"web-qa": "qa32", "np": "stage", "web-uat": "uat", "web-prod": "prod"}
+  #   self.function_call(envList)
+
+  # def app(self):
+  #   envList = {"app-qa": "qa32", "app-stage": "stage", "app-uat": "uat", "app-prod": "prod"}
+  #   self.function_call(envList)
 
   def web(self):
     self.reset_All()
