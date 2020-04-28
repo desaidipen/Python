@@ -111,7 +111,6 @@ class version(object):
   def web(self):
     self.reset_All()
     self.assign_Version(self.find_k8s_version("np", "qa32"))
-    # self.assign_Version(self.find_k8s_version("web-stage", "stage"))
     self.assign_Version(self.find_k8s_version("np", "stage"))
     self.assign_Version(self.find_k8s_version("web-uat", "uat"))
     self.assign_Version(self.find_k8s_version("web-prod", "prod"))
