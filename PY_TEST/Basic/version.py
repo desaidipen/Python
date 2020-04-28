@@ -45,8 +45,8 @@ class version(object):
       grep_value = " | grep " + args.app
 
     # command = "kubectl get pods --context "+context+" -n "+namespace+" -oyaml | grep -e 'image: docker.prosper.com' | sed 's|.*.com\/||g' | uniq" + grep_value
-    command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].spec.containers[*].image}' | tr -s '[[:space:]]' '\n' | sed 's/docker.prosper.com\///g' | sort | uniq" + grep_value
-    # command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].status.containerStatuses[*].image}' | sed 's/docker.prosper.com\///g' | tr -s '[[:space:]]' '\n'  | sort | uniq" + grep_value
+    # command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].spec.containers[*].image}' | tr -s '[[:space:]]' '\n' | sed 's/docker.prosper.com\///g' | sort | uniq" + grep_value
+    command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].status.containerStatuses[*].image}' | sed 's/docker.prosper.com\///g' | tr -s '[[:space:]]' '\n'  | sort | uniq" + grep_value
     process = os.popen(command)
 
     helm_Data = file.read(process)
@@ -110,7 +110,7 @@ class version(object):
 
   def web(self):
     self.reset_All()
-    self.assign_Version(self.find_k8s_version("web-qa", "qa32"))
+    self.assign_Version(self.find_k8s_version("np", "qa32"))
     # self.assign_Version(self.find_k8s_version("web-stage", "stage"))
     self.assign_Version(self.find_k8s_version("np", "stage"))
     self.assign_Version(self.find_k8s_version("web-uat", "uat"))
