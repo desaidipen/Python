@@ -20,8 +20,7 @@ class version(object):
 
   def __init__(self):
     self.reset_All
-    self.web()
-    self.app()
+    self.all()
 
   # K8S VERSIONS *******************************************************************************************************************************************************
   def find_k8s_version(self, context, namespace):
@@ -34,11 +33,11 @@ class version(object):
 
     grep_value = ""
     if (args.app != "all"):
-      grep_value = " | grep " + args.app
+      grep_value = ' | grep -e "' + args.app + '"'
 
-    # command = "kubectl get pods --context "+context+" -n "+namespace+" -oyaml | grep -e 'image: docker.prosper.com' | sed 's|.*.com\/||g' | uniq" + grep_value
+    command = "kubectl get pods --context "+context+" -n "+namespace+" -oyaml | grep -e 'image: docker.prosper.com' | sed 's|.*.com\/||g' | uniq" + grep_value
     # command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].spec.containers[*].image}' | tr -s '[[:space:]]' '\n' | sed 's/docker.prosper.com\///g' | sort | uniq" + grep_value
-    command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].status.containerStatuses[*].image}' | sed 's/docker.prosper.com\///g' | tr -s '[[:space:]]' '\n'  | sort | uniq" + grep_value
+    # command = "kubectl get pods --context "+context+" -n "+namespace+" -o jsonpath='{.items[*].status.containerStatuses[*].image}' | sed 's/docker.prosper.com\///g' | tr -s '[[:space:]]' '\n'  | sort | uniq" + grep_value
     process = os.popen(command)
 
     helm_Data = file.read(process)
@@ -51,7 +50,7 @@ class version(object):
       temp = appVersions[i].split(":")
       
       if (temp[0] not in self.version_All):
-        self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-", "-X-"]
+        self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-", "-X-", "-X-"]
       try:
         self.version_All[temp[0]][ee] = temp[1]
         if (len(temp[1]) >= self.version_Length[ee]):
@@ -81,18 +80,12 @@ class version(object):
       
         print(c)
 
-  def web(self):
+  def all(self):
     self.reset_All()
     self.assign_Version(self.find_k8s_version("np", "qa32"))
     self.assign_Version(self.find_k8s_version("np", "stage"))
     self.assign_Version(self.find_k8s_version("web-uat", "uat"))
     self.assign_Version(self.find_k8s_version("web-prod", "prod"))
-    self.print_table()
-
-  def app(self):
-    self.reset_All()
-    self.assign_Version(self.find_k8s_version("app-qa", "qa32"))
-    self.assign_Version(self.find_k8s_version("app-stage", "stage"))
     self.assign_Version(self.find_k8s_version("app-uat", "uat"))
     self.assign_Version(self.find_k8s_version("app-prod", "prod"))
     self.print_table()
