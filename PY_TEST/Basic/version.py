@@ -24,8 +24,9 @@ class version(object):
 
   # K8S VERSIONS *******************************************************************************************************************************************************
   def find_k8s_version(self, context, namespace):
-    self.version_All["APPLICATION"].append("{}/{}".format(context, namespace))
-    self.version_Length.append(len(" {}/{} ".format(context, namespace)))
+    if namespace not in self.version_All["APPLICATION"]:
+      self.version_All["APPLICATION"].append("{}".format(namespace))
+      self.version_Length.append(len(" {}/{} ".format(context, namespace)))
 
     parser = argparse.ArgumentParser()
     parser.add_argument('app')
@@ -44,13 +45,14 @@ class version(object):
     return helm_Data.split("\n")
 
   # PARSE VERSIONS *******************************************************************************************************************************************************
-  def assign_Version(self, appVersions):
-    ee = len(self.version_All["APPLICATION"]) - 1
+  def assign_Version(self, appVersions, namespace):
+    ee = self.version_All["APPLICATION"].index(namespace)
+    
     for i in range(len(appVersions)-1):
       temp = appVersions[i].split(":")
       
       if (temp[0] not in self.version_All):
-        self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-", "-X-", "-X-"]
+        self.version_All[temp[0]] = ["-X-", "-X-", "-X-", "-X-"]
       try:
         self.version_All[temp[0]][ee] = temp[1]
         if (len(temp[1]) >= self.version_Length[ee]):
@@ -82,12 +84,12 @@ class version(object):
 
   def all(self):
     self.reset_All()
-    self.assign_Version(self.find_k8s_version("np", "qa32"))
-    self.assign_Version(self.find_k8s_version("np", "stage"))
-    self.assign_Version(self.find_k8s_version("web-uat", "uat"))
-    self.assign_Version(self.find_k8s_version("web-prod", "prod"))
-    self.assign_Version(self.find_k8s_version("app-uat", "uat"))
-    self.assign_Version(self.find_k8s_version("app-prod", "prod"))
+    self.assign_Version(self.find_k8s_version("np", "qa32"), "qa32")
+    self.assign_Version(self.find_k8s_version("np", "stage"), "stage")
+    self.assign_Version(self.find_k8s_version("web-uat", "uat"), "uat")
+    self.assign_Version(self.find_k8s_version("web-prod", "prod"), "prod")
+    self.assign_Version(self.find_k8s_version("app-uat", "uat"), "uat")
+    self.assign_Version(self.find_k8s_version("app-prod", "prod"), "prod")
     self.print_table()
 
 version()
