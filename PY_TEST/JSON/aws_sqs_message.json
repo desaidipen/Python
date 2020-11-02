@@ -1,0 +1,25 @@
+{
+    "Records":[
+       {
+          "messageId":"d4e01171-8639-4c6e-9c5c-9decc9a61cb7",
+          "receiptHandle":"AQEBKbe8RerObkc18N3vF2bqYW4mj8pwSq3Fjo8JUV6pxjRkP41Gq2sL8WOFTbkYoXK6t8mhPLUNtP8ravxapMzQzdjpoP40ODSoJqRqSP4oYDBSo+NuweRPmA1ZM9FjkMjFSpqBtXom3HILv5mv4cSZWuZ22Q+TO4+rc741Krxb306CK768i1C0FASQiLv+5VGT18fbogtea8xaX92L3XKORz8xoPQZVAr9YHXZ82RSY6FRHlBhjFXVRzZ51LurV1Z6R76Ejk7KnegJDozRux2KivDILacXNk/GyXXKgVl0BqMNUMelJrGuQTpD5rUYIPLDenQV9urVPR91xzcq8xeIkxH5JyJlipoNyVwfv4N9BsPuuqpl2Np/ydndhxiXP4iOhBpZKMXiqAaVc7qzshaskA==",
+          "body": 
+            {
+               "random_number": "30"
+            },
+          "attributes":{
+             "ApproximateReceiveCount":"1",
+             "SentTimestamp":"1600956884242",
+             "SenderId":"AIDA3L7L2KSSEOOLORLVX",
+             "ApproximateFirstReceiveTimestamp":"1600956884246"
+          },
+          "messageAttributes":{
+             
+          },
+          "md5OfBody":"6138bd0fdd9b5a457ac477fbc35f1afc",
+          "eventSource":"aws:sqs",
+          "eventSourceARN":"arn:aws:sqs:us-east-1:781641733284:dd-one-queue",
+          "awsRegion":"us-east-1"
+       }
+    ]
+ }
