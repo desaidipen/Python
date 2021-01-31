@@ -1,0 +1,431 @@
+8:51 AM To All: Good Morning All....
+8:51 AM To All: Class will start at 9:00AM  CST
+9:01 AM George II V Dimalanta (to All): I was not able to finish Lab yesterday.
+9:01 AM George II V Dimalanta (to All): I'm at Task 4: testing the application, where do I find the EC2 App server?
+9:02 AM George II V Dimalanta (to Organizers): I'm at Task 4: testing the application, where do I find the EC2 App server?
+9:02 AM To George II V Dimalanta (PRIVATE): From service search menu, click on EC2
+9:02 AM To George II V Dimalanta (PRIVATE): Make sure your region is US-EAST-1
+9:04 AM George II V Dimalanta (PRIVATE): I'm inside the US-EAST-1 but could not find the App SErver
+9:04 AM George II V Dimalanta (PRIVATE): instruction 44
+9:05 AM To George II V Dimalanta (PRIVATE): Did you just started the lab? There is a chance that servers are being provisioned.
+9:06 AM Michael Nemeth (to All): 24
+9:07 AM Michael Jacobsen (to Organizers): 5
+9:07 AM Bertrand Barroux (to Organizers): 24
+9:07 AM Leroy Lemon (to Organizers): 6
+9:07 AM Lee Anderson (to Organizers): He gave away the answer
+9:07 AM Dave Yenser (to All): 24
+9:07 AM Antonio Vargas (to All): 5
+9:07 AM Viatcheslav Gorelik (to Organizers): 5
+9:07 AM Srikanth Irukulla (to All): 5
+9:07 AM Michael Jacobsen (to All): I'll take another sip of coffee
+9:08 AM Viatcheslav Gorelik (to Organizers): 77
+9:08 AM Antonio Vargas (to All): 15
+9:08 AM Srikanth Irukulla (to All): must be a lot
+9:08 AM Antonio Vargas (to All): 77
+9:09 AM Lee Anderson (to Organizers): You had said that a region is made up of 2 more AZs
+9:09 AM Lee Anderson (to Organizers): 2 or more
+9:09 AM Leroy Lemon (to Organizers): 21
+9:10 AM Lee Anderson (to Organizers): What about sovereign rules? Like Germany, for instance?
+9:12 AM To All: https://aws.amazon.com/financial-services/security-compliance/compliance-center/?country-compliance-center-cards.sort-by=item.additionalFields.headline&country-compliance-center-cards.sort-order=asc
+9:12 AM Lee Anderson (to All): thx
+9:12 AM Lee Anderson (to All): yep, got it thx u
+9:13 AM To All: https://aws.amazon.com/financial-services/security-compliance/compliance-center/de/
+9:13 AM Leroy Lemon (to Organizers): 187
+9:13 AM Michael Jacobsen (to All): 39
+9:13 AM Leroy Lemon (to Organizers): 176
+9:13 AM Alan MacColl (PRIVATE): 200+
+9:13 AM Leroy Lemon (to Organizers): yeah, I'm using the book...
+9:13 AM Antonio Vargas (PRIVATE): 177
+9:14 AM To All: https://aws.amazon.com/about-aws/global-infrastructure/
+9:15 AM To All: https://www.infrastructure.aws/
+9:15 AM Michael Nemeth (to Presenter): 5TB
+9:15 AM Sudharm JAIN (to All): 0 to infinity
+9:15 AM Leroy Lemon (to Organizers): 0, 5 gb
+9:15 AM Srikanth Irukulla (to All): min 0KB
+9:15 AM Michael Nemeth (to Presenter): max
+9:15 AM Viatcheslav Gorelik (to Organizers): 0 - 5 tb
+9:15 AM Sudharm JAIN (to All): 5TB
+9:15 AM Srikanth Irukulla (to All): 5TB is it
+9:15 AM Anthony Paulk (to Organizers): o to 5TB
+9:15 AM Lee Anderson (to Organizers): Min 0, Max 5 TB
+9:15 AM Michael Jacobsen (to Organizers): 5TB
+9:16 AM Michael Nemeth (to Presenter): 0 KB min
+9:16 AM Leroy Lemon (to Organizers): I knew it was 5 something....
+9:17 AM Michael Nemeth (to All): 4
+9:17 AM Srikanth Irukulla (to All): Gen purpose and SSD?
+9:18 AM Srikanth Irukulla (to All): Gen Purpose, Provisioned IOPS etc
+9:19 AM Viatcheslav Gorelik (to Organizers): zzzz
+9:19 AM Lee Anderson (to Organizers): Makes sense that they would hibernate
+9:20 AM Sudharm JAIN (PRIVATE): we can save file in S3 also ??
+9:22 AM Viatcheslav Gorelik (to Organizers): so with pulling data out, would it just be in a queue
+9:22 AM Viatcheslav Gorelik (to Organizers): thank you
+9:23 AM Michael Nemeth (to Presenter): Amazon Machine Image
+9:23 AM Lee Anderson (to Organizers): amazon machine image
+9:24 AM Bertrand Barroux (to Organizers): amazon ... image?
+9:24 AM Michael Jacobsen (to Organizers): Amazon Machine Image
+9:28 AM Lee Anderson (to Organizers): thought it was "<instance url>"/metadata EP ?
+9:28 AM Michael Nemeth (to Organizers): http://169.254.169.254/latest/meta-data/
+9:28 AM Bertrand Barroux (to All): 169.254 something?
+9:28 AM Srikanth Irukulla (to All): 255.196.255.196 - 0r of that sorts
+9:28 AM Michael Jacobsen (to Organizers): public ip
+9:30 AM Srikanth Irukulla (to All): Postgres, My SQL, MSSQL, Oracle, Aurora variants
+9:30 AM Leroy Lemon (to Organizers): mysql, postgres, sql server, oracle and a few I don't care about
+9:31 AM Srikanth Irukulla (to All): Install in EC2
+9:31 AM Leroy Lemon (to Organizers): you don't
+9:31 AM Michael Jacobsen (to Organizers): ec2
+9:32 AM Sudharm JAIN (PRIVATE): RDS is for any relatioal data source
+9:34 AM Leroy Lemon (to Organizers): spot is on demand
+9:34 AM Michael Nemeth (to Organizers): RI is long term, Spot is temp
+9:37 AM Michael Nemeth (to All): When the spot terminates, is there anyway to automate the recovery of data or you lose it completely?
+9:37 AM Sudharm JAIN (PRIVATE): What time is lunch please?
+9:37 AM Sudharm JAIN (PRIVATE): 12 ?
+9:37 AM Sudharm JAIN (PRIVATE): Thanks
+9:40 AM Michael Nemeth (to All): okay, perfect. Thanks
+9:44 AM Lee Anderson (to Organizers): +1
+9:44 AM Srikanth Irukulla (to All): +1
+9:44 AM JORGE MORENO (to All): +1
+9:44 AM Bertrand Barroux (to All): =1
+9:44 AM Michael Jacobsen (to All): +1
+9:44 AM Michael Nemeth (to All): +1
+9:44 AM Dave Yenser (to Organizers): not too familiar but heard of it
+9:47 AM Lee Anderson (to Organizers): Question: within this networking module, will you be covering (or mentioning) PrivateLink ?
+9:47 AM To All: https://cidr.xyz/
+9:48 AM Lee Anderson (to Organizers): thx
+9:53 AM Srikanth Irukulla (to All): I t should
+9:54 AM Viatcheslav Gorelik (to All): 20 extra
+9:54 AM Bertrand Barroux (to All): gateway+broadcast...
+9:54 AM Srikanth Irukulla (to All): 5 reserved per subnet
+9:56 AM To All: https://www.youtube.com/watch?v=Zd5hsL-JNY4
+10:03 AM Michael Nemeth (to All): no outside traffic
+10:03 AM Irene Arustamov (to All): no traffic will get in?
+10:04 AM Michael Jacobsen (to Organizers): can't hear it
+10:04 AM Srikanth Irukulla (to All): so, if it goes down, AWS will pay us? LOL
+10:04 AM Michael Jacobsen (to Organizers): I meant we can't hear the printer
+10:06 AM Michael Jacobsen (to All): Private
+10:07 AM Michael Nemeth (to Organizers): priv
+10:07 AM George II V Dimalanta (PRIVATE): private
+10:07 AM Srikanth Irukulla (to All): private
+10:07 AM Dave Yenser (to All): private
+10:07 AM Viatcheslav Gorelik (to All): private
+10:07 AM Dave Yenser (to All): private
+10:07 AM Michael Jacobsen (to All): depends on how the batch is received
+10:08 AM Michael Jacobsen (to All): api
+10:08 AM Viatcheslav Gorelik (to All): private
+10:08 AM Michael Jacobsen (to All): private
+10:08 AM Vincent Giovanatto (to All): depends
+10:08 AM Dave Yenser (to All): private
+10:08 AM Viatcheslav Gorelik (to All): public
+10:08 AM Michael Nemeth (to Organizers): pub
+10:08 AM Dave Yenser (to All): public
+10:08 AM Michael Jacobsen (to All): public
+10:10 AM Srikanth Irukulla (to All): 11
+10:10 AM JORGE MORENO (to All): 11
+10:10 AM Michael Nemeth (to Organizers): 11
+10:11 AM Michael Jacobsen (to All): Sorry. What are the 5 again?
+10:11 AM Michael Jacobsen (to All): thanks
+10:21 AM Srikanth Irukulla (to All): If my EC2 has two ENIs, I get two IP addresses, yet the ports are still the same on the EC2 isntance.
+Hence, Security groups are always defined at the EC2 level and not at the ENI level, right?
+10:23 AM Srikanth Irukulla (to All): Then, while associating a security group to EC2 isntance, it does not ask for the ENI, does it?
+10:31 AM Dave Yenser (to All): AZ
+10:31 AM Sudharm JAIN (PRIVATE): region
+10:31 AM Leroy Lemon (to Organizers): availability zone
+10:32 AM Srikanth Irukulla (to All): Region
+10:32 AM Sudharm JAIN (PRIVATE): regin
+10:32 AM Michael Nemeth (to Organizers): regions
+10:32 AM Dave Yenser (to All): AZ
+10:32 AM JORGE MORENO (to All): AZ
+10:32 AM Srikanth Irukulla (to Organizers): AZ
+10:32 AM Leroy Lemon (to Organizers): az
+10:32 AM Srikanth Irukulla (to Organizers): False
+10:32 AM Leroy Lemon (to Organizers): f
+10:32 AM Viatcheslav Gorelik (to All): f
+10:32 AM Michael Nemeth (to Organizers): false
+10:32 AM Bertrand Barroux (to All): f
+10:32 AM Irene Arustamov (to All): false
+10:32 AM Sudharm JAIN (PRIVATE): T
+10:33 AM Sudharm JAIN (PRIVATE): F
+10:33 AM Sudharm JAIN (PRIVATE): sorry
+10:33 AM Srikanth Irukulla (to Organizers): true
+10:33 AM Irene Arustamov (to All): true
+10:33 AM Leroy Lemon (to Organizers): f
+10:33 AM Bertrand Barroux (to All): t
+10:33 AM JORGE MORENO (to All): t
+10:39 AM To All: @ Lee / @ All.... AWS Privatelink example.... https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-privatelink.html
+10:44 AM Srikanth Irukulla (to Organizers): Is PrivateLink an alternative to VPC Peering?
+10:44 AM Srikanth Irukulla (to Organizers): sounds definitely an improvement.
+10:46 AM Srikanth Irukulla (to Organizers): Sure :)
+10:47 AM Srikanth Irukulla (to Organizers): Fail over
+10:48 AM Leroy Lemon (to Organizers): 1 gb?
+10:48 AM Leroy Lemon (to Organizers): damn...
+10:52 AM Leroy Lemon (to Organizers): no
+10:52 AM Irene Arustamov (to All): yes
+10:52 AM Alan MacColl (to All): yes
+10:52 AM Srikanth Irukulla (to Organizers): does not it depend on the protocol
+10:52 AM George II V Dimalanta (PRIVATE): yes
+10:52 AM Srikanth Irukulla (to Organizers): like https etc
+10:52 AM Srikanth Irukulla (to Organizers): Ok
+10:53 AM George II V Dimalanta (PRIVATE): no
+10:54 AM Srikanth Irukulla (to Organizers): Yes
+10:54 AM Viatcheslav Gorelik (to All): n
+10:54 AM Alan MacColl (to All): yes
+10:54 AM Leroy Lemon (to Organizers): maybe
+10:54 AM Irene Arustamov (to All): n
+10:54 AM Irene Arustamov (to All): vpn
+10:55 AM Leroy Lemon (to Organizers): get a second line
+10:55 AM Srikanth Irukulla (to Organizers): put one more line from another DX partner or from teh same
+10:55 AM Irene Arustamov (to All): second
+10:57 AM Srikanth Irukulla (to Organizers): nope
+10:57 AM Irene Arustamov (to All): yes
+10:57 AM George II V Dimalanta (PRIVATE): yes
+10:57 AM Viatcheslav Gorelik (to All): y
+10:57 AM Michael Jacobsen (to All): yes, if you connect them
+10:58 AM Leroy Lemon (to Organizers): yes
+10:58 AM Michael Jacobsen (to All): no
+10:58 AM Michael Nemeth (to Organizers): no
+10:59 AM Srikanth Irukulla (to Organizers): Security Groups and NACLs
+10:59 AM Srikanth Irukulla (to Organizers): ?
+10:59 AM Dave Yenser (to All): SG
+10:59 AM Leroy Lemon (to Organizers): acl
+10:59 AM Michael Jacobsen (to All): NACL
+11:00 AM Irene Arustamov (to All): no
+11:00 AM Michael Nemeth (to Organizers): no
+11:00 AM Srikanth Irukulla (to Organizers): nope
+11:00 AM Leroy Lemon (to Organizers): yes
+11:00 AM Leroy Lemon (to Organizers): no...
+11:09 AM Michael Jacobsen (to All): Is there a cost difference between VPC peering and TGW?It seems like migrating from VPC-P to TGW would be hard. So, Starting with TGW seems better if you expect growth.
+11:10 AM Michael Jacobsen (to All): Thanks. That was my thought.
+11:14 AM JORGE MORENO (to All): same region only
+11:14 AM Srikanth Irukulla (to Organizers): I dont think so
+11:14 AM Vincent Giovanatto (PRIVATE): VPC endpoint only supports same region
+11:14 AM Srikanth Irukulla (to Organizers): URLs are global
+11:17 AM Srikanth Irukulla (to Organizers): So, the difference btween PrivateLink and Peering is that - Peering allows all EC2 instances inboth the VPCs/subnets (provided routs) discoverable, while private link does not? is that right
+11:18 AM Srikanth Irukulla (to Organizers): Sure,, thanks
+11:19 AM Antonio Vargas (PRIVATE): So it can change
+11:19 AM Leroy Lemon (to Organizers): ip addresses can change
+11:20 AM Dave Yenser (to Organizers): managed
+11:20 AM Srikanth Irukulla (to Organizers): managed service
+11:25 AM Michael Jacobsen (to All): Do you configure NLB and ALP explicitly? Or does the ELB protocol determine the actual balancing type?
+11:27 AM Michael Jacobsen (to All): thx
+11:29 AM Srikanth Irukulla (to Organizers): atleast 2
+11:29 AM Leroy Lemon (to Organizers): 2
+11:29 AM Irene Arustamov (to All): at least 2
+11:29 AM George II V Dimalanta (PRIVATE): 2
+11:30 AM Michael Nemeth (to Organizers): depends on budget
+11:31 AM Srikanth Irukulla (to Organizers): they are AZ local
+11:31 AM George II V Dimalanta (PRIVATE): better connection internally
+11:31 AM Michael Nemeth (to Organizers): route traffic between internal and external traffic
+11:37 AM Dave Yenser (to Organizers): Can you resend lab link
+11:38 AM To All: Please login here for labs... https://aws.qwiklabs.com/
+11:38 AM Srikanth Irukulla (to Organizers): A qq - Can we add read replicas to Dynamo DB?
+11:39 AM Michael Jacobsen (to All): You said that AWS networking was complicated. When do you start showing that? ;-)
+11:40 AM To All: @ Srikanth... DynamoDB is a managed service. So, we can create global tables across multi-region setup. Each replica stores the same set of data items. Any given global table can only have one replica table per AWS Region.
+11:40 AM Charisma Island (PRIVATE): Hi Dipen can you please add me to the labs?
+11:41 AM To Charisma Island (PRIVATE): Which email I should use?
+11:41 AM Srikanth Irukulla (to Organizers): What if I dont have multi-region need?
+11:41 AM Srikanth Irukulla (to Organizers): In a given region, I will get one read-replica though, right?
+11:41 AM Charisma Island (PRIVATE): islandch@amazon.com
+11:41 AM To Charisma Island (PRIVATE): Added
+11:42 AM Charisma Island (PRIVATE): Cool thanks
+11:42 AM To Srikanth Irukulla (PRIVATE): We create a table in a given region. Here there is no concept of read-replicas. As we read from this table, we need to manage Read Capacity Unit (RCU) and Write Capacity Units (WCU) for the table.
+11:43 AM Srikanth Irukulla (to Organizers): Ok, the reason I ask is that
+1 RCU = 1 Strongly Consistent Read = 2 Eventual Consistent Reads
+11:44 AM To Srikanth Irukulla (PRIVATE): yes
+11:44 AM Srikanth Irukulla (to Organizers): So, it must be spending the 1 RCU to read from two instances to make sure it returns the latest values
+11:44 AM Srikanth Irukulla (to Organizers): value*
+11:46 AM To Srikanth Irukulla (PRIVATE): When it is configured for strong consistency
+11:48 AM Srikanth Irukulla (to Organizers): One more question on RDS - when we set an RDS for Multi-AZ, we get a standby instance (that is in live sync) in a different AZ, is that right?
+11:48 AM Srikanth Irukulla (to Organizers): Or, will there be any additional instance created in teh same AZ?
+11:50 AM To Srikanth Irukulla (PRIVATE): Multi-AZ will set up another instance in different AZ which remain in sync with primary
+11:56 AM Srikanth Irukulla (to Organizers): Thanks Dipen
+12:04 PM Leroy Lemon (to Organizers): what is a "blackhole"?
+12:05 PM To Srikanth Irukulla (PRIVATE): that means, traffic route is broken... destination does not exist.
+12:05 PM Vincent Giovanatto (PRIVATE): unsure if i did something wrong, but i'm getting gateway timeout when trying to save the DB settings
+12:05 PM To Leroy Lemon (PRIVATE): that means, traffic route is broken... destination does not exist.
+12:05 PM To Vincent Giovanatto (PRIVATE): checking
+12:05 PM To Vincent Giovanatto (PRIVATE): please provide your url here
+12:05 PM Vincent Giovanatto (PRIVATE): and now i cant seem to get back to the public IP - http://3.231.168.167/
+12:06 PM Leroy Lemon (to Organizers): the peering connection is pending acceptance for status.
+12:07 PM To Leroy Lemon (PRIVATE): checking
+12:07 PM Leroy Lemon (to Organizers): I missed that step...
+12:07 PM Leroy Lemon (to Organizers): just accepted
+12:07 PM To Leroy Lemon (PRIVATE): perfect...
+12:08 PM Vincent Giovanatto (PRIVATE): oh...i think i might have skipped editing the shared route table
+12:08 PM To Vincent Giovanatto (PRIVATE): :). let's try again...
+12:09 PM Leroy Lemon (to Organizers): unable to establish a db connection, I'll trace my steps.
+12:09 PM Leroy Lemon (to Organizers): must be missing something.
+12:09 PM To Leroy Lemon (PRIVATE): Check SG and RouteTables...
+12:09 PM To Leroy Lemon (PRIVATE): these are usually the culprit for the error
+12:10 PM Vincent Giovanatto (PRIVATE): yes...that was it. sorry!
+12:10 PM To Vincent Giovanatto (PRIVATE): great... thanks
+12:12 PM Leroy Lemon (to Organizers): actually it was me using autocomplete instead of pasting in the proper endpoint and user name.
+12:12 PM Leroy Lemon (to Organizers): all is good.
+1:06 PM To Leroy Lemon (PRIVATE): Great.... thanks
+1:11 PM Lee Anderson (to Organizers): I got pulled away for work reasons. I'd like a chance to finish it later if that's ok?
+1:11 PM Sudharm JAIN (PRIVATE): how long labs are available to us after training
+1:11 PM Lee Anderson (to Organizers): +1
+1:13 PM Lee Anderson (to Organizers): +1
+1:13 PM Leroy Lemon (to Organizers): 1
+1:13 PM Dave Yenser (to All): 1
+1:13 PM George II V Dimalanta (PRIVATE): +1
+1:15 PM Sudharm JAIN (PRIVATE): can we export lab work and import in our persona aws account
+1:16 PM To Leroy Lemon (PRIVATE): Corvus Glaive?
+1:17 PM To All: Corvus Glaive?
+1:23 PM Vincent Giovanatto (PRIVATE): yes, denied
+1:23 PM Lee Anderson (to All): many times
+1:30 PM Srikanth Irukulla (to Organizers): S3
+1:37 PM Srikanth Irukulla (to Organizers): all dynamo and s3 opers
+1:37 PM Viatcheslav Gorelik (to Presenter): all on dynomo and s3
+1:37 PM Leroy Lemon (to Organizers): db and s3 bucket
+1:38 PM Leroy Lemon (to Organizers): table abc
+1:38 PM Srikanth Irukulla (to Organizers): dyn - table-abc, s3-b-abc aand children
+1:38 PM Irene Arustamov (to All): all actions
+1:38 PM Srikanth Irukulla (to Organizers): all operations again
+1:38 PM Michael Nemeth (to Presenter): Denying all actions that are not in table
+1:38 PM Viatcheslav Gorelik (to Organizers): all on dynomo and s3
+1:38 PM Michael Nemeth (to Presenter): or s3
+1:39 PM Irene Arustamov (to All): except same table
+1:39 PM Vincent Giovanatto (PRIVATE): needs explicit allow
+1:39 PM Viatcheslav Gorelik (to Organizers): fail
+1:39 PM Leroy Lemon (to Organizers): they get all the objects in the bucket too
+1:40 PM Srikanth Irukulla (to Organizers): cant perform
+1:40 PM Bertrand Barroux (to Organizers): he will be allowed
+1:40 PM Michael Nemeth (to Presenter): denied
+1:40 PM Bertrand Barroux (to Organizers): indeed
+1:40 PM Vincent Giovanatto (PRIVATE): deny is reviewed first
+1:40 PM Srikanth Irukulla (to Organizers): except there is another inlinr policy
+1:40 PM Srikanth Irukulla (to Organizers): greanting access
+1:41 PM Vincent Giovanatto (PRIVATE): to prevent accidental permission sharing?
+1:42 PM Irene Arustamov (to All): will deny everything
+1:42 PM Michael Nemeth (to Presenter): deny everything
+1:44 PM Srikanth Irukulla (to Organizers): root to recue
+1:44 PM Vincent Giovanatto (PRIVATE): have to use root?
+1:44 PM Srikanth Irukulla (to Organizers): rescue
+1:44 PM Viatcheslav Gorelik (to Organizers): detach from thanos account
+1:45 PM Srikanth Irukulla (to Organizers): thats why Docker was invented !!!
+1:46 PM Srikanth Irukulla (to All): party
+1:47 PM Vincent Giovanatto (PRIVATE): iron man suit
+1:47 PM Irene Arustamov (to All): ironman
+1:55 PM George II V Dimalanta (PRIVATE): supergirl
+1:55 PM Srikanth Irukulla (to All): Dr Strange
+1:55 PM Michael Jacobsen (to All): SPIDERMAN
+1:55 PM Leroy Lemon (to Organizers): capt america
+1:55 PM Irene Arustamov (to All): ironman
+1:55 PM Srikanth Irukulla (to All): Marvel
+1:55 PM Michael Jacobsen (to All): NO DEBATE. SPIDERMAN
+1:55 PM Srikanth Irukulla (to All): yep
+1:59 PM Srikanth Irukulla (to All): Role
+2:00 PM Michael Nemeth (to Organizers): role
+2:01 PM Srikanth Irukulla (to All): check IAM policies from his Roles
+2:02 PM Alan MacColl (to All): check bucket policy
+2:02 PM Srikanth Irukulla (to All): bucket policy too
+2:03 PM Alan MacColl (to All): remove root access
+2:03 PM Bertrand Barroux (to All): has the app already distributed?
+2:03 PM Srikanth Irukulla (to All): using root c
+2:03 PM Leroy Lemon (to Organizers): root should never be used in prod
+2:03 PM Bertrand Barroux (to All): already been distributed I meant
+2:04 PM Bertrand Barroux (to All): in which case too late, the root account is compromised
+2:19 PM Srikanth Irukulla (to All): http://amazon.com
+2:19 PM Vincent Giovanatto (PRIVATE): aws
+2:19 PM Vincent Giovanatto (PRIVATE): /amazon
+2:19 PM Bertrand Barroux (to All): amazon
+2:19 PM Antonio Vargas (PRIVATE): US Government
+2:21 PM Vincent Giovanatto (PRIVATE): black friday
+2:21 PM Alan MacColl (to All): black friday/cyber monday
+2:37 PM Srikanth Irukulla (to Organizers): In Cloudwatch can I catch any kind of events or only those from CloudTrail?
+2:37 PM Srikanth Irukulla (to Organizers): Ok, thank you
+2:38 PM Srikanth Irukulla (to Organizers): Kool, thanks. Pretty clear
+2:41 PM Sudharm JAIN (PRIVATE): will guide be available on http://gilmoreglobal.com after tomorrow?
+2:48 PM Leroy Lemon (to Organizers): no
+2:50 PM Srikanth Irukulla (to Organizers): 0
+2:50 PM Leroy Lemon (to Organizers): 10 %
+2:50 PM Michael Nemeth (to Organizers): 1
+2:50 PM Srikanth Irukulla (to Organizers): i mean, can be 0, how much depends on min HA config
+2:50 PM Srikanth Irukulla (to Organizers): like 2 at least
+2:52 PM Leroy Lemon (to Organizers): 200 %
+2:53 PM Srikanth Irukulla (to Organizers): the capacity at any point of time that is adjusted per the asg rule setup
+2:58 PM Bertrand Barroux (to All): name distribution
+2:58 PM Srikanth Irukulla (to Organizers): HA
+2:59 PM Irene Arustamov (to All): no redundancy
+3:06 PM Bertrand Barroux (to Organizers): quick question: Is there additional courses after the lab? if no, I'll probably do the lab tomorrow, as I did yesterday
+3:06 PM To All: we have just one small module after lab....
+3:07 PM Srikanth Irukulla (to All): +1
+3:07 PM Alan MacColl (to All): sure
+3:07 PM Lee Anderson (to All): +1
+3:07 PM Antonio Vargas (PRIVATE): +1
+3:07 PM Michael Jacobsen (to All): +1
+3:07 PM JORGE MORENO (to All): +1
+3:07 PM Viatcheslav Gorelik (to All): +1
+3:08 PM Bertrand Barroux (to Organizers): thanks to all, much appreciated :) really sry to disturb the whole group
+3:08 PM Bertrand Barroux (to All): thanks to all, much appreciated :) really sry to disturb the whole group
+3:08 PM Lee Anderson (to All): Its' appreciated
+3:08 PM To All: thank you everyone.....
+3:13 PM Alan MacColl (to All): nope
+3:13 PM Bertrand Barroux (to All): +1
+3:13 PM Srikanth Irukulla (to All): +1
+3:13 PM Michael Jacobsen (to All): 0
+3:14 PM Anthony Paulk (to Organizers): no
+3:14 PM JORGE MORENO (to All): 0
+3:16 PM To All: https://www.youtube.com/watch?v=-mL3zT1iIKw&feature=youtu.be&t=1
+3:22 PM Lee Anderson (to Organizers): That is triggering some tech support rage
+3:22 PM Alan MacColl (to All): yes
+3:22 PM Irene Arustamov (to All): y
+3:22 PM Vincent Giovanatto (PRIVATE): im usually the one saying it..
+3:24 PM Vincent Giovanatto (PRIVATE): cloudfront
+3:24 PM Srikanth Irukulla (to Organizers): CloudFront
+3:24 PM Alan MacColl (to All): cloudfront
+3:25 PM Srikanth Irukulla (to Organizers): images
+3:25 PM Srikanth Irukulla (to Organizers): videos
+3:25 PM Srikanth Irukulla (to Organizers): static text like news
+3:26 PM Srikanth Irukulla (to Organizers): css/js
+3:26 PM Bertrand Barroux (to Organizers): images, static content
+3:32 PM Srikanth Irukulla (to Organizers): it has to flush out at all edge locations and recreate new caches
+3:32 PM Bertrand Barroux (to Organizers): trigger mandatory cache misses
+3:33 PM Srikanth Irukulla (to Organizers): Can you please explain more on the GET req to origin from CF - If-Modified-Since header
+3:35 PM Srikanth Irukulla (to All): Sure, thank you :)
+3:35 PM Bertrand Barroux (to All): y
+3:35 PM Bertrand Barroux (to All): yes
+3:35 PM Bertrand Barroux (to All): sry
+3:36 PM Leroy Lemon (to Organizers): mew
+3:36 PM Vincent Giovanatto (PRIVATE): yes
+3:36 PM Irene Arustamov (to All): cat
+3:36 PM Lee Anderson (to All): 2 cats, 1 dog
+3:36 PM George II V Dimalanta (to All): 1
+3:36 PM Michael Jacobsen (to All): Both!
+3:39 PM Leroy Lemon (to Organizers): 10 mil connections
+3:39 PM Vincent Giovanatto (PRIVATE): i was thinking of mirai botnet a while ago...didnt realize biggest was this year
+3:39 PM Dave Yenser (to All): get hub right?
+3:39 PM Lee Anderson (to All): in the Tpbs range
+3:40 PM Lee Anderson (to All): cloudflare had a role in mitigating if I remember right
+3:40 PM Lee Anderson (to All): no?
+3:41 PM Leroy Lemon (to Organizers): https://www.theverge.com/2020/6/18/21295337/amazon-aws-biggest-ddos-attack-ever-2-3-tbps-shield-github-netscout-arbor
+3:42 PM To All: https://www.theverge.com/2020/6/18/21295337/amazon-aws-biggest-ddos-attack-ever-2-3-tbps-shield-github-netscout-arbor
+3:44 PM Leroy Lemon (to Organizers): fps
+3:45 PM Leroy Lemon (to Organizers): halo
+3:45 PM Lee Anderson (to All): Strategy games, mostly
+3:45 PM Leroy Lemon (to Organizers): the lego ones are good
+3:45 PM Lee Anderson (to All): Fallout count?
+3:45 PM Vincent Giovanatto (PRIVATE): i am
+3:45 PM Antonio Vargas (PRIVATE): Pokemon Go
+3:45 PM Lee Anderson (to All): whaaday mean, "pretty good"?
+3:46 PM Lee Anderson (to All): AoE ! Sure.
+3:48 PM Lee Anderson (to All): you said eviction?
+3:49 PM Leroy Lemon (to Organizers): clear the cache
+3:49 PM Lee Anderson (to All): eviction == deleting the element
+3:49 PM Bertrand Barroux (to Organizers): removal from cache
+3:50 PM Lee Anderson (to All): eviction policies based on a caches finite size (memory, storage constraints, size etc.)
+3:55 PM Bertrand Barroux (to Organizers): Thanks again to everyone for having accepted Dipen's super considerate suggestion. much appreciated
+3:55 PM Bertrand Barroux (to Organizers): see you tomorrow
+3:55 PM Lee Anderson (to All): thank you
+3:55 PM Bertrand Barroux (to All): Thanks again to everyone for having accepted Dipen's super considerate suggestion. much appreciated
+3:55 PM Bertrand Barroux (to All): see you tomorrow
+3:55 PM Michael Jacobsen (to Organizers): Did I miss Module 9 somehow?
+3:57 PM Michael Jacobsen (to All): Ah. I didn't catch that.
+3:57 PM Michael Jacobsen (to All): Oh!
+3:57 PM Michael Jacobsen (to All): :-)
+4:03 PM Sudharm JAIN (PRIVATE): is the AWS cerification book has same instructions what you have on labs
+4:06 PM To Sudharm JAIN (PRIVATE): If you are referring to "Architecting on AWS - Lab Guide" then it has same steps.
+4:36 PM Sudharm JAIN (PRIVATE): If you are referring to "Architecting on AWS - Lab Guide" then it has same steps.
+4:36 PM Sudharm JAIN (PRIVATE): ok
+4:36 PM Leroy Lemon (to Organizers): done
+4:36 PM Sudharm JAIN (PRIVATE): thanks
+4:36 PM Leroy Lemon (to Organizers): woot!
