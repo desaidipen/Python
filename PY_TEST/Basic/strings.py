@@ -1,19 +1,19 @@
 name = "Dipen"
 age = 37
 
-print (f'My name is {name} and I am {age} years old.')
+print ('My name is {} and I am {} years old.'.format(name, age))
 
 l1 = list(range(0, 10))
 print (l1)
 
-print (f'EVEN: {l1[::2]}')
-print (f'ODD: {l1[1::2]}')
-print (f'3s: {l1[::3]}')
-print (f'REVERSE: {l1[::-1]}')
+print ('EVEN: {}'.format(l1[::2]))
+print ('ODD: {}'.format(l1[1::2]))
+print ('3s: {}'.format(l1[::3]))
+print ('REVERSE: {}'.format(l1[::-1]))
 
 
 str = 'Dipen Desai'
-print (f'REVERSE: {str[::-1]}')
+print ('REVERSE: {}'.format(str[::-1]))
 
 s2 = 'http://dipendesai.com'
 print(s2[s2.find('.'):])
