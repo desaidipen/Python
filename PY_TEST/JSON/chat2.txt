@@ -1,0 +1,1451 @@
+8:48 AM To All: Good Morning All....
+8:53 AM Raisa Parveen Syeda (to All): Good Morning!
+8:56 AM Jose Fernando Molina Chacon (to All): Good morning
+8:56 AM To All: >> Please create account at below sites with registered email address. Books: https://evantage.gilmoreglobal.com/ Labs: https://aws.qwiklabs.com/
+FYI... Books will be distributed at first break. Bookshelf will be empty for now.
+8:58 AM Michael DiGiorgio (to All): Morning!
+9:00 AM Firas Wahdan (to All): Sounds good!
+9:00 AM Sameera Grandhi (to All): Yes
+9:00 AM Prashant Desai (to All): sounds good
+9:00 AM Jose Fernando Molina Chacon (to All): Sounds great
+9:00 AM Michael DiGiorgio (to All): Sounds good to me
+9:00 AM Joseph Tran (to All): sounds good
+9:01 AM To All: Please create account at below sites with registered email address. Books: https://evantage.gilmoreglobal.com/ Labs: https://aws.qwiklabs.com/
+FYI... Books will be distributed at first break. Bookshelf will be empty for now.
+9:04 AM Joseph Tran (to All): anyone else taking a while to get a confirmation email for the lab?
+9:04 AM To Samuel Ogunti (PRIVATE): Hey, Good Morning..... Somehow I am unable to find your registration in my class.
+9:04 AM Jose Fernando Molina Chacon (to All): Yes, I have been waiting for a minute already
+9:04 AM Firas Wahdan (to All): Took a couple minutes for me
+9:05 AM Jose Fernando Molina Chacon (to All): Just arrived
+9:05 AM Firas Wahdan (to All): It might be because so many are doing it at the same time right now
+9:05 AM To Samuel Ogunti (PRIVATE): Could you please provide your registered email address?
+9:09 AM To All: Please create account at below sites with registered email address. Books: https://evantage.gilmoreglobal.com/ Labs: https://aws.qwiklabs.com/
+FYI... Books will be distributed at first break. Bookshelf will be empty for now.
+9:09 AM Brady Thrift (to All): Coffee
+9:09 AM Saurabh Bhalla (to All): Nothing
+9:10 AM Joseph Tran (to All): sausage gravy
+9:10 AM Jose Fernando Molina Chacon (to All): Breadsticks
+9:10 AM Michael DiGiorgio (to All): Cofee + water
+9:10 AM Sajid Nizami (to All): Coffee
+9:10 AM Raisa Parveen Syeda (to All): Coffee
+9:10 AM Michael DiGiorgio (to All): *coffee
+9:10 AM Prashanth Boovaragavan (to All): sandwich
+9:10 AM Ethan Solom (to All): Nothing yet sadly
+9:11 AM To All: >>>>> MODULE 00: CourseOverview_DevelopingOnAWS
+9:15 AM Jose Fernando Molina Chacon (to All): #teamPython
+9:18 AM To All: Books: https://evantage.gilmoreglobal.com/
+9:21 AM Prashanth Boovaragavan (to All): +1
+9:21 AM Raisa Parveen Syeda (to All): +1
+9:21 AM Saurabh Bhalla (to All): +1
+9:21 AM Jose Fernando Molina Chacon (to All): +1
+9:23 AM Gangabarani Balakrishnan (to All): NYC?
+9:23 AM Saurabh Bhalla (to All): Houston
+9:23 AM Jiaqi Wang (to All): Miami
+9:23 AM Joseph Tran (to All): chicago?
+9:23 AM Raisa Parveen Syeda (to All): NYC?
+9:26 AM Prashanth Boovaragavan (to All): Prashanth Boovaragavan
+9:48 AM Saurabh Bhalla (to All): interesting
+9:48 AM Prashanth Boovaragavan (to All): Sorry I will not be able to talk here. I will type my intro here.
+9:48 AM Prashanth Boovaragavan (to All): Prashanth Boovaragavan
+I am a Software Development Engineer at Amazon - Tax Org - We make sure you pay your taxes right when you place an order ! :P
+I use AWS technology on a day to basis. I am here to learn about building native AWS services end to end
+AWS experience level - Beginner - 5/10
+Java
+I ventured a bit into cinematography and self taught myself editing using Adobe Premier pro
+9:50 AM Prashanth Boovaragavan (to All): haha
+10:01 AM Joseph Tran (to All): dang anyone still not get their confirmation email for the lab?
+10:01 AM Samuel Ogunti (to Organizers): My email is sogunti@amazon.com.
+10:02 AM Joseph Tran (to All): i still haven't, not even in my spam folder
+10:02 AM Saurabh Bhalla (to All): Maybe you could try re registering with another email
+10:03 AM To All: @ Joe, let me check
+10:03 AM Joseph Tran (to All): i can try reregistering if we're supposed to be using the emails we registered to the class with
+10:05 AM To Joseph Tran (PRIVATE): Seems like you have registered with email tran_joseph@bah.com ...... in this case try to reset your password or clear your browser cache and try to login again.
+10:05 AM Joseph Tran (to All): ok i'll give that a shot
+10:08 AM Joseph Tran (to All): still no go, it says I still need to confirm my account, which I can't do until I get that confirmation email...
+10:09 AM To All: @ Joe, please try again.
+10:09 AM To All: Clear your cache and refresh your page and try to login again. I have override email confirmation.
+10:10 AM Joseph Tran (to All): awesome that did it! thanks so much
+10:11 AM To All: >>>>> MODULE 01: IntroToAWS
+10:17 AM Jose Fernando Molina Chacon (to All): me
+10:17 AM Prashanth Boovaragavan (to All): +1
+10:17 AM Sameera Grandhi (to All): +1
+10:17 AM Prashant Desai (to All): +1
+10:17 AM Brady Thrift (to All): Undecided
+10:17 AM Joseph Tran (to All): +1
+10:17 AM Michael DiGiorgio (to All): +1
+10:17 AM Firas Wahdan (to All): +1
+10:17 AM Raisa Parveen Syeda (to All): +1
+10:17 AM Ethan Solom (to All): +1
+10:17 AM Sajid Nizami (to All): +1
+10:19 AM Saurabh Bhalla (to All): I have
+10:20 AM Saurabh Bhalla (to All): Load testing your application
+10:25 AM Brady Thrift (to All): Unmanaged
+10:25 AM Michael DiGiorgio (to All): A mix
+10:25 AM Saurabh Bhalla (to All): +1
+10:25 AM Jose Fernando Molina Chacon (to All): unmanaged
+10:25 AM Saurabh Bhalla (to All): managed
+10:25 AM Michael DiGiorgio (to All): managed
+10:25 AM Sajid Nizami (to All): managed
+10:25 AM Jose Fernando Molina Chacon (to All): managed
+10:26 AM Raisa Parveen Syeda (to All): managed
+10:30 AM Joseph Tran (to All): +1
+10:30 AM Sameera Grandhi (to All): +1
+10:30 AM Michael DiGiorgio (to All): +1
+10:30 AM Saurabh Bhalla (to All): Working with lambda
+10:30 AM Gangabarani Balakrishnan (to All): +1
+10:30 AM Prashant Desai (to All): +1
+10:30 AM Firas Wahdan (to All): +1
+10:35 AM To All: GraphQL
+10:35 AM Sameera Grandhi (to All): +1
+10:35 AM To All: ?
+10:35 AM Brady Thrift (to All): We're starting to, yes
+10:35 AM Michael DiGiorgio (to All): heard of it
+10:35 AM Ethan Solom (to All): +1
+10:40 AM To All: ----------
+10:41 AM Jose Fernando Molina Chacon (to All): use a Lambda?
+10:41 AM Prashanth Boovaragavan (to All): Use lambdas for file processing and ingestion
+10:41 AM Michael DiGiorgio (to All): invoke lambdas instead of the queue/processers?
+10:42 AM Raisa Parveen Syeda (to All): Use lambda to process and send data tp s3.
+10:43 AM Prashanth Boovaragavan (to All): +1
+10:43 AM Michael DiGiorgio (to All): like cloudwatch events
+10:43 AM Sajid Nizami (to All): yes
+10:43 AM Saurabh Bhalla (to All): or S3 events can call lambdas
+10:44 AM Saurabh Bhalla (to All): 10,000?
+10:44 AM Gangabarani Balakrishnan (to All): no limit
+10:44 AM Sajid Nizami (to All): no limit
+10:44 AM Sameera Grandhi (to All): unlimited
+10:46 AM Joseph Tran (to All): yes
+10:46 AM Shaun Wang (to All): +1
+10:46 AM Raisa Parveen Syeda (to All): yes
+10:46 AM Michael DiGiorgio (to All): yep
+10:49 AM Sajid Nizami (to All): 26
+10:49 AM Brady Thrift (to All): 20
+10:49 AM Prashanth Boovaragavan (to All): 25
+10:49 AM Shaun Wang (to All): 25
+10:50 AM Sameera Grandhi (to All): 32
+10:50 AM Saurabh Bhalla (to All): 25
+10:50 AM To All: https://aws.amazon.com/about-aws/global-infrastructure/
+10:50 AM Raisa Parveen Syeda (to All): 25
+10:51 AM Brady Thrift (to All): BJS?
+10:51 AM Jose Fernando Molina Chacon (to All): brazil?
+10:51 AM Brady Thrift (to All): Beijing?
+10:51 AM Sameera Grandhi (to All): Japan ?
+10:51 AM Joseph Tran (to All): San Fran or Hong Kong maybe?
+10:52 AM Sajid Nizami (to All): Sydney
+10:53 AM Sameera Grandhi (to All): yes
+10:53 AM Prashant Desai (to All): yes
+10:53 AM Michael DiGiorgio (to All): yes
+10:53 AM Jose Fernando Molina Chacon (to All): yes
+11:00 AM Sameera Grandhi (to All): enecccbefhliefcreefeivkevcieljfrrcblruurdjuk
+11:01 AM Sameera Grandhi (to All): sorry
+11:08 AM To All: US-EAST-1
+11:10 AM To All: -----------
+11:10 AM Saurabh Bhalla (to All): True
+11:10 AM Greg Harper (to All): True
+11:10 AM Ethan Solom (to All): True
+11:10 AM Sajid Nizami (to All): true
+11:10 AM Joseph Tran (to All): true
+11:10 AM Firas Wahdan (to All): True
+11:10 AM Prashant Desai (to All): true
+11:10 AM Sameera Grandhi (to All): true
+11:10 AM Gangabarani Balakrishnan (to All): true
+11:10 AM Raisa Parveen Syeda (to All): true
+11:10 AM Jiaqi Wang (to All): true
+11:10 AM Michael DiGiorgio (to All): true
+11:10 AM To All: -----------
+11:10 AM Michael DiGiorgio (to All): false
+11:10 AM Prashant Desai (to All): false
+11:10 AM Ethan Solom (to All): False
+11:10 AM Prashanth Boovaragavan (to All): false
+11:10 AM Joseph Tran (to All): false
+11:10 AM Sajid Nizami (to All): false
+11:10 AM Brady Thrift (to All): false
+11:10 AM Jiaqi Wang (to All): false
+11:10 AM Saurabh Bhalla (to All): false
+11:10 AM To All: -----------
+11:11 AM Joseph Tran (to All): false
+11:11 AM Michael DiGiorgio (to All): true
+11:11 AM Raisa Parveen Syeda (to All): false
+11:11 AM Sameera Grandhi (to All): true
+11:11 AM Jiaqi Wang (to All): false
+11:11 AM Gangabarani Balakrishnan (to All): false
+11:11 AM Greg Harper (to All): true
+11:11 AM Prashant Desai (to All): true
+11:11 AM Sajid Nizami (to All): true
+11:11 AM Saurabh Bhalla (to All): true
+11:11 AM Firas Wahdan (to All): True
+11:11 AM Brady Thrift (to All): true
+11:11 AM Ethan Solom (to All): True
+11:14 AM To All: -----------
+11:14 AM Michael DiGiorgio (to All): true
+11:14 AM Saurabh Bhalla (to All): true
+11:14 AM Firas Wahdan (to All): true
+11:14 AM Prashant Desai (to All): true
+11:14 AM Sajid Nizami (to All): true
+11:14 AM Joseph Tran (to All): true
+11:15 AM To All: -----------
+11:15 AM Firas Wahdan (to All): true
+11:15 AM Prashant Desai (to All): true
+11:15 AM Jiaqi Wang (to All): true
+11:15 AM Saurabh Bhalla (to All): true
+11:15 AM Raisa Parveen Syeda (to All): true
+11:15 AM Sajid Nizami (to All): true
+11:15 AM Joseph Tran (to All): true
+11:15 AM To All: -----------
+11:15 AM Saurabh Bhalla (to All): false
+11:15 AM Joseph Tran (to All): false
+11:15 AM Ethan Solom (to All): false
+11:15 AM Michael DiGiorgio (to All): false
+11:15 AM Firas Wahdan (to All): false
+11:15 AM Raisa Parveen Syeda (to All): false
+11:15 AM Prashant Desai (to All): false
+11:17 AM To All: >>>>> MODULE 02: IntroToDevelopingonAWS
+11:18 AM Greg Harper (to Organizers): I have not received a code
+11:18 AM To Greg Harper (PRIVATE): Sure, let me send it out.
+11:21 AM To Greg Harper (PRIVATE): You should get an email in few mins.
+11:24 AM Greg Harper (to Organizers): got it. thanks!
+11:26 AM Brady Thrift (to All): Can the LB health check affect desired capacity auto-scaling?
+11:27 AM Brady Thrift (to All): Yeah- thanks
+11:28 AM Firas Wahdan (to All): +1
+11:28 AM Greg Harper (to All): good morning
+11:28 AM Joseph Tran (to All): here
+11:28 AM Saurabh Bhalla (to All): Back
+11:28 AM Lawson Cofield (to All): back
+11:28 AM Ethan Solom (to All): back
+11:28 AM Prashant Desai (to All): +1
+11:28 AM Sajid Nizami (to All): +1
+11:28 AM Michael DiGiorgio (to All): here
+11:28 AM Joseph Tran (to All): definitely need coffee
+11:28 AM Sameera Grandhi (to All): here
+11:33 AM Brady Thrift (to All): I can hear it
+11:33 AM Ethan Solom (to All): yes
+11:33 AM Raisa Parveen Syeda (to All): yes
+11:33 AM Joseph Tran (to All): i didn't hear anything personally
+11:33 AM Greg Harper (to All): a little... not bad for me
+11:33 AM Saurabh Bhalla (to All): its not too loud
+11:33 AM Raisa Parveen Syeda (to All): +1
+11:35 AM Prashant Desai (to All): not loud at all
+11:35 AM Michael DiGiorgio (to All): all good
+11:38 AM Joseph Tran (to All): single - maybe?
+11:43 AM Michael DiGiorgio (to All): yes
+11:43 AM Greg Harper (to All): yes
+11:44 AM Firas Wahdan (to All): yes
+11:44 AM Gangabarani Balakrishnan (to All): yes
+11:45 AM Raisa Parveen Syeda (to All): yes in recursion :D
+11:53 AM Joseph Tran (to All): ah fibonacci
+11:53 AM Joseph Tran (to All): you were just didn't click in my head
+12:00 PM Michael DiGiorgio (to All): sounds good
+12:00 PM Raisa Parveen Syeda (to All): thanks!
+12:01 PM Jiaqi Wang (to All): thanks
+12:01 PM Joseph Tran (to All): +1
+1:01 PM Eduardo Tostado (to All): Tacos
+1:01 PM Greg Harper (to All): chocolate chip cookies
+1:02 PM Michael DiGiorgio (to All): had breakfast for lunch
+1:02 PM Raisa Parveen Syeda (to All): sandwich!
+1:02 PM Jiaqi Wang (to All): bugers
+1:02 PM Greg Harper (to All): :D
+1:02 PM Michael DiGiorgio (to All): eggs
+1:02 PM Brady Thrift (to All): Another coffee, it's 11am right now ;)
+1:02 PM Sajid Nizami (to All): grilled cheese
+1:02 PM Joseph Tran (to All): chicken soup and coffee
+1:02 PM Raisa Parveen Syeda (to All): PST
+1:02 PM Joseph Tran (to All): philly
+1:02 PM Prashant Desai (to All): EST
+1:02 PM Michael DiGiorgio (to All): An hour later, EST
+1:02 PM Sajid Nizami (to All): PST
+1:02 PM Michael DiGiorgio (to All): in NY
+1:02 PM Greg Harper (to All): pacific
+1:02 PM Brady Thrift (to All): MST (Arizona, which == PST right now)
+1:02 PM Ethan Solom (to All): MST Arizona
+1:02 PM Joseph Tran (to All): EST
+1:02 PM Prashanth Boovaragavan (to All): PST
+1:04 PM Greg Harper (to All): +1
+1:04 PM Prashant Desai (to All): +!
+1:04 PM Gangabarani Balakrishnan (to All): +1
+1:04 PM Prashanth Boovaragavan (to All): +1
+1:07 PM Brady Thrift (to All): What about other data (metrics, events)? Can those be public?
+1:09 PM Brady Thrift (to All): It does, yes
+1:19 PM Sajid Nizami (to All): ys
+1:19 PM Raisa Parveen Syeda (to All): yes
+1:19 PM Saurabh Bhalla (to All): yes
+1:19 PM Ethan Solom (to All): yes
+1:19 PM Greg Harper (to All): within 5 min
+1:19 PM Prashanth Boovaragavan (to All): eventual consistency
+1:19 PM To All: ----------
+1:20 PM Michael DiGiorgio (to All): true
+1:20 PM Prashant Desai (to All): true
+1:20 PM Jiaqi Wang (to All): true
+1:20 PM Brady Thrift (to All): true
+1:20 PM Joseph Tran (to All): true
+1:20 PM Saurabh Bhalla (to All): true
+1:20 PM Prashanth Boovaragavan (to All): true
+1:20 PM Ethan Solom (to All): false
+1:20 PM To All: ----------
+1:21 PM Greg Harper (to All): true
+1:21 PM Ethan Solom (to All): true
+1:21 PM Jiaqi Wang (to All): true
+1:21 PM Prashant Desai (to All): true
+1:21 PM Firas Wahdan (to All): True
+1:21 PM Jose Fernando Molina Chacon (to All): True
+1:21 PM Raisa Parveen Syeda (to All): true
+1:21 PM Saurabh Bhalla (to All): true
+1:21 PM Sajid Nizami (to All): true
+1:21 PM Jose Fernando Molina Chacon (to All): Yes
+1:21 PM Prashant Desai (to All): no
+1:21 PM Jiaqi Wang (to All): no
+1:21 PM Greg Harper (to All): yes. with custom
+1:22 PM Prashant Desai (to All): false
+1:22 PM To All: ----------
+1:22 PM Michael DiGiorgio (to All): false
+1:22 PM Jiaqi Wang (to All): false
+1:22 PM Brady Thrift (to All): false
+1:22 PM Gangabarani Balakrishnan (to All): flase
+1:22 PM Raisa Parveen Syeda (to All): false
+1:22 PM Jose Fernando Molina Chacon (to All): false
+1:22 PM Joseph Tran (to All): false
+1:22 PM Sajid Nizami (to All): false
+1:22 PM To All: ----------
+1:22 PM Saurabh Bhalla (to All): false
+1:22 PM Firas Wahdan (to All): False
+1:22 PM Joseph Tran (to All): false
+1:22 PM Jiaqi Wang (to All): false
+1:22 PM Gangabarani Balakrishnan (to All): false
+1:22 PM Brady Thrift (to All): false
+1:22 PM Jose Fernando Molina Chacon (to All): false
+1:22 PM Prashanth Boovaragavan (to All): false
+1:22 PM Sajid Nizami (to All): false
+1:23 PM Saurabh Bhalla (to All): internal server error
+1:23 PM To All: ----------
+1:23 PM Greg Harper (to All): true
+1:23 PM Joseph Tran (to All): true
+1:23 PM Jiaqi Wang (to All): true
+1:23 PM Prashant Desai (to All): true
+1:23 PM Michael DiGiorgio (to All): true
+1:23 PM Firas Wahdan (to All): true
+1:23 PM Ethan Solom (to All): true
+1:23 PM Raisa Parveen Syeda (to All): true
+1:23 PM Saurabh Bhalla (to All): true
+1:24 PM To All: >>>>> MODULE 03: IntroToIAM
+1:31 PM Joseph Tran (to All): very big fan
+1:31 PM Prashant Desai (to All): +1
+1:31 PM Michael DiGiorgio (to All): def
+1:31 PM Jose Fernando Molina Chacon (to All): +1
+1:31 PM Raisa Parveen Syeda (to All): +1
+1:31 PM Gangabarani Balakrishnan (to All): +1
+1:31 PM Saurabh Bhalla (to All): iron man
+1:31 PM Ethan Solom (to All): Iron man
+1:31 PM Raisa Parveen Syeda (to All): iron-man
+1:32 PM Saurabh Bhalla (to All): haha
+1:37 PM Saurabh Bhalla (to All): Can 1 user have more than one policy attached at the same time?
+1:38 PM Saurabh Bhalla (to All): okay
+1:45 PM Saurabh Bhalla (to All): yes
+1:45 PM Joseph Tran (to All): is it always going to be that AND relationship between policies?
+1:47 PM Brady Thrift (to All): allow
+1:47 PM Firas Wahdan (to All): allow
+1:47 PM Saurabh Bhalla (to All): allow
+1:47 PM Michael DiGiorgio (to All): allow
+1:48 PM Raisa Parveen Syeda (to All): allow
+1:52 PM Prashant Desai (to All): Allow
+1:52 PM Raisa Parveen Syeda (to All): Allow
+1:52 PM Gangabarani Balakrishnan (to All): allow
+1:52 PM Michael DiGiorgio (to All): allows action on dynamo and s3
+1:52 PM Brady Thrift (to All): All DDB and S3
+1:52 PM Prashant Desai (to All): dynamo and s3
+1:52 PM Jiaqi Wang (to All): all ddb and s3 buckets
+1:52 PM Raisa Parveen Syeda (to All): allows acces to s3 and dynamo-db
+1:52 PM Michael DiGiorgio (to All): all tables/buckets
+1:52 PM Gangabarani Balakrishnan (to All): any action onddb and s3
+1:52 PM Sajid Nizami (to All): ddb ans s3 allow
+1:52 PM Michael DiGiorgio (to All): right all actions, not resources
+1:52 PM Jose Fernando Molina Chacon (to All): Only to those resources
+1:52 PM Michael DiGiorgio (to All): those specific buckets
+1:53 PM Brady Thrift (to All): Specific resources
+1:53 PM Prashant Desai (to All): specific resources
+1:53 PM Raisa Parveen Syeda (to All): particular s3 access are allowed
+1:53 PM Gangabarani Balakrishnan (to All): on these spcific resources
+1:53 PM Sajid Nizami (to All): allow key, one s3 bucket nad s3 bucket keys
+1:54 PM Brady Thrift (to All): Deny access
+1:54 PM Jiaqi Wang (to All): deny
+1:54 PM Joseph Tran (to All): denies actions
+1:54 PM Brady Thrift (to All): All DDB / S3 actions
+1:54 PM Michael DiGiorgio (to All): deny all actions
+1:54 PM Jiaqi Wang (to All): all actions
+1:54 PM Joseph Tran (to All): related to dynamodb and s3
+1:54 PM Michael DiGiorgio (to All): for dynamo/s3
+1:54 PM Firas Wahdan (to All): all actions on dynamo db and s3
+1:54 PM Saurabh Bhalla (to All): deny on all ddb and s3, except the 3 resources
+1:54 PM Sajid Nizami (to All): actions on ddb and s3 that are not on pollynotes, bucket and items
+1:55 PM Brady Thrift (to All): Deny all other resources
+1:55 PM Prashant Desai (to All): Deny every resource except
+1:55 PM Michael DiGiorgio (to All): NotResource -> don't deny on these resources?
+1:55 PM Raisa Parveen Syeda (to All): except those 3 all other is denied
+1:55 PM Joseph Tran (to All): to specify the scope?
+1:56 PM Saurabh Bhalla (to All): rONLY allow on these 3 resources
+1:56 PM Saurabh Bhalla (to All): ONLY*
+1:56 PM Brady Thrift (to All): To default everything to allow/deny to everything except a specific resource
+2:02 PM Brady Thrift (to All): And it's in git commit history ;)
+2:12 PM To All: IMPORTANT..... https://docs.aws.amazon.com/IAM /latest/UserGuide/reference_policies_evaluation-logic.html
+2:13 PM To All: ----------
+2:13 PM Brady Thrift (to All): false?
+2:13 PM Prashant Desai (to All): false
+2:14 PM Saurabh Bhalla (to All): false
+2:14 PM Joseph Tran (to All): false
+2:14 PM Jose Fernando Molina Chacon (to All): ?
+2:14 PM Gangabarani Balakrishnan (to All): False, also need session id?
+2:14 PM Jiaqi Wang (to All): true?
+2:15 PM Gangabarani Balakrishnan (to All): cool
+2:15 PM To All: ----------
+2:15 PM Brady Thrift (to All): false
+2:15 PM Jiaqi Wang (to All): false
+2:15 PM Sajid Nizami (to All): false
+2:15 PM Saurabh Bhalla (to All): false
+2:15 PM Jose Fernando Molina Chacon (to All): false
+2:15 PM Michael DiGiorgio (to All): false
+2:15 PM Joseph Tran (to All): false
+2:16 PM Ethan Solom (to All): false
+2:16 PM Saurabh Bhalla (to All): true
+2:16 PM To All: ----------
+2:16 PM Joseph Tran (to All): true
+2:16 PM Saurabh Bhalla (to All): true
+2:16 PM Raisa Parveen Syeda (to All): true
+2:16 PM Jose Fernando Molina Chacon (to All): true
+2:16 PM Michael DiGiorgio (to All): true
+2:16 PM Prashant Desai (to All): true
+2:16 PM To All: ----------
+2:16 PM Saurabh Bhalla (to All): false
+2:16 PM Joseph Tran (to All): false
+2:16 PM Michael DiGiorgio (to All): false
+2:16 PM Jose Fernando Molina Chacon (to All): FALSE
+2:16 PM Raisa Parveen Syeda (to All): false
+2:16 PM Firas Wahdan (to All): false
+2:16 PM Jiaqi Wang (to All): false
+2:17 PM Saurabh Bhalla (to All): its in your mind
+2:17 PM To All: ----------
+2:17 PM Jose Fernando Molina Chacon (to All): false
+2:17 PM Michael DiGiorgio (to All): false
+2:17 PM Brady Thrift (to All): false
+Access how?
+2:17 PM Prashant Desai (to All): false
+2:17 PM Jiaqi Wang (to All): false
+2:17 PM Ethan Solom (to All): false
+2:18 PM To All: https://s3.us-east-1.amazonaws.com/testonaws.com/images/arches.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3L7L2KSSIZAUNMG5%2F20210406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210406T191826Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c0f2bb5fd308ba8f042cbc9f89dd675195616a371faa9135c5a634a24eda166
+2:19 PM To All: https://s3.us-east-1.amazonaws.com/testonaws.com/images/arches.jpg >>> DENIED
+2:19 PM To All: https://s3.us-east-1.amazonaws.com/testonaws.com/images/arches.jpg
+2:19 PM To All: ---------
+2:19 PM Sajid Nizami (to All): true
+2:20 PM Joseph Tran (to All): false
+2:20 PM Ethan Solom (to All): true
+2:20 PM Brady Thrift (to All): false
+2:20 PM Prashanth Boovaragavan (to All): true
+2:20 PM Raisa Parveen Syeda (to All): yes
+2:20 PM Michael DiGiorgio (to All): false
+2:20 PM Saurabh Bhalla (to All): true?
+2:20 PM Jiaqi Wang (to All): true
+2:20 PM Jose Fernando Molina Chacon (to All): false
+2:20 PM Michael DiGiorgio (to All): haha
+2:20 PM Brady Thrift (to All): lol
+2:20 PM Gangabarani Balakrishnan (to All): false
+2:22 PM Joseph Tran (to All): sounds good
+2:22 PM To All: >>>>> MODULE 04: IntroToLabs
+2:24 PM To Saurabh Bhalla (PRIVATE): Somehow you are still not registered for Qwiklabs. Email..... saubhall@amazon.com Please register at.... https://aws.qwiklabs.com/
+2:31 PM To All: All...... Please register your account for Labs.... https://aws.qwiklabs.com/
+2:31 PM To All: We are starting our first lab in few mins.
+2:33 PM Jose Fernando Molina Chacon (to All): Where is the license code?
+2:34 PM Jose Fernando Molina Chacon (to All): I lost it in the chat
+2:34 PM Jose Fernando Molina Chacon (to All): Oh! Thanks
+2:35 PM Saurabh Bhalla (PRIVATE): Registered now. Thanks!
+2:38 PM Sajid Nizami (to All): +1
+2:38 PM Brady Thrift (to All): I am
+2:38 PM Prashanth Boovaragavan (to All): +1
+2:38 PM Michael DiGiorgio (to All): Mac here
+2:38 PM Jose Fernando Molina Chacon (to All): +1
+2:38 PM Jiaqi Wang (to All): 1
+2:38 PM Saurabh Bhalla (PRIVATE): +1
+2:38 PM Greg Harper (to All): +1
+2:38 PM Ethan Solom (to All): +1
+2:38 PM Eduardo Tostado (to All): +1
+2:38 PM Saurabh Bhalla (to All): +1
+2:38 PM Gangabarani Balakrishnan (to All): +1
+2:38 PM Prashant Desai (to All): +1
+2:38 PM Jose Fernando Molina Chacon (to All): May I use Python locally?
+2:38 PM Raisa Parveen Syeda (to All): +1
+2:39 PM Jose Fernando Molina Chacon (to All): IntelliJ and VS Code
+2:43 PM Raisa Parveen Syeda (to All): Can you please show how you logged to rdb again, sorry missed it
+2:46 PM Raisa Parveen Syeda (to All): thanks!
+2:46 PM Saurabh Bhalla (to All): I missed it too. I dont see a place to enter ip address
+2:49 PM Joseph Tran (to All): yes
+2:49 PM Prashanth Boovaragavan (to All): yes
+2:50 PM Saurabh Bhalla (to All): Whats the username for Windows RDP?
+2:50 PM To All: Windows RDP > Administrator
+2:51 PM To All: Guacamole > student
+2:51 PM To All: password > administrator password
+2:51 PM To All: Ctrl + Alt + Shift >>> To use clipboard on Guacamole
+2:51 PM To All: Ctrl + Options + Shift >> ON Mac for clipboard
+2:53 PM Raisa Parveen Syeda (to All): Guacamole showng invalid login lof the username:student and password: <admin password>
+2:53 PM Brady Thrift (to All): It worked for me
+2:54 PM Raisa Parveen Syeda (to All): are you using the ur: http://44.192.109.230/guacamole/#/
+2:55 PM Greg Harper (to Presenter): I don't have this available in my qwiklabs account
+2:56 PM To All: @ Greg , please try again.
+2:56 PM Greg Harper (to Presenter): it works now
+2:58 PM Raisa Parveen Syeda (to All): that worked,thanks!!
+3:00 PM Saurabh Bhalla (to All): What is the folder location on RDP for C#
+3:01 PM To All: C:\temp/workdir
+3:01 PM To All: Find CSharp lab in workdir folder.
+3:02 PM Saurabh Bhalla (to All): Thanks
+3:09 PM Brady Thrift (to All): I'm getting an error on Task 7 "An error occurred (AuthorizationHeaderMalformed) when calling the ListBuckets operation: The authorization header is malformed; a non-empty Access Key (AKID) must be provided in the credential."
+3:09 PM To All: checking
+3:10 PM Brady Thrift (to All): The credentials file has no id/key/token values
+3:10 PM To All: Just remote the IAM  role "Student-Role" and re-attach to Windows EC2 instance.
+3:10 PM To All: ** remove
+3:12 PM Brady Thrift (to All): Ok, trying that now.
+3:14 PM Saurabh Bhalla (to All): Do I have to create a new IAM  key? Where do I find my Access Key and Secret Key
+3:14 PM To All: @ Saurabh..... which step?
+3:14 PM Saurabh Bhalla (to All): Task 2
+3:16 PM To All: File should be available.... if not no need to create a new one... please continue with task 3 then.
+3:16 PM Lawson Cofield (to All): No IntelliJ :'(
+3:17 PM Brady Thrift (to All): I renamed the credentials file and the aws s3 ls worked. It seems I had a bad credentials file.
+3:17 PM Jiaqi Wang (to All): I cannot find the file either
+3:17 PM Jiaqi Wang (to All): for step 2
+3:17 PM To All: IntelliJ for java?
+3:17 PM Raisa Parveen Syeda (to All): me too, went to step 3.
+3:18 PM To All: Checking cloudformation template..... My guess is, since we have not provided any credentials earlier, file just simply doesnt exist.
+3:19 PM Saurabh Bhalla (to All): Step 3 Error -> Unable to locate credentials. You can configure credentials by running "aws configure".
+3:19 PM Michael DiGiorgio (to All): Task 2 isn't asking you to do anything with access/secret keys right? It's just an overview
+3:19 PM To All: @ Michael.... yes
+3:19 PM Michael DiGiorgio (to All): later on you add a role for s3 and can run the ls command
+3:19 PM Firas Wahdan (to All): That's expected output for task 3 I believe
+3:19 PM Saurabh Bhalla (to All): Oh got it. The error is expected
+3:20 PM To All: :)
+3:20 PM Jiaqi Wang (to All): and for step 5 I cannot find Student-Policy in Attach permissions policies, only Student-Boundary is valid
+3:21 PM Michael DiGiorgio (to All): did you create it in step 4?
+3:21 PM Jiaqi Wang (to All): Ah I skipped that lol
+3:21 PM Michael DiGiorgio (to All): all good lolol
+3:22 PM To All: @ All..... we have just a min left.
+3:22 PM Brady Thrift (to All): Eclipse is asking for a secret access key
+3:23 PM Eduardo Tostado (to All): Where do I find my AWS Access Key ID?
+3:23 PM Sajid Nizami (to All): you don't need it.
+3:24 PM Sajid Nizami (to All): assign role to your ec2.
+3:24 PM Eduardo Tostado (to All): I have assigned the role and get the "non-empty access key must be provided" error when running the aws s3 ls command
+3:25 PM Brady Thrift (to All): Try renaming the credentials file. It was causing me an issue. E.g., credentials_bak
+3:25 PM Eduardo Tostado (to All): thanks Brady - that did the trick
+3:26 PM Brady Thrift (to All): You're welcome
+3:27 PM Brady Thrift (to All): The credentials file defaulted with:
+[default]
+aws_access_key_id =
+aws_secret_access_key =
+aws_session_token =
+3:27 PM Michael DiGiorgio (to All): ahh so it won't see an empty access key and then try the role?
+3:28 PM Michael DiGiorgio (to All): got it
+3:30 PM Saurabh Bhalla (to All): Done!
+3:36 PM Joseph Tran (to All): i'm going to assume no?
+3:37 PM Prashant Desai (to All): no
+3:39 PM Saurabh Bhalla (to All): global
+3:39 PM Jose Fernando Molina Chacon (to All): global
+3:39 PM Sajid Nizami (to All): global
+3:39 PM Brady Thrift (to All): Regional
+3:39 PM Saurabh Bhalla (to All): Don't know why though
+3:39 PM Eduardo Tostado (to All): Regional
+3:39 PM Joseph Tran (to All): regional
+3:39 PM Raisa Parveen Syeda (to All): global
+3:39 PM Michael DiGiorgio (to All): global namespace
+3:42 PM Brady Thrift (to All): I have
+3:42 PM Saurabh Bhalla (to All): -1
+3:45 PM Joseph Tran (to All): yes
+3:45 PM Brady Thrift (to All): Yes
+3:45 PM Eduardo Tostado (to All): yes
+3:45 PM Michael DiGiorgio (to All): yep
+3:45 PM Saurabh Bhalla (to All): yes I can hear you
+3:45 PM Sajid Nizami (to All): yes
+3:45 PM Firas Wahdan (to All): yes
+3:45 PM Jiaqi Wang (to All): yes
+3:45 PM Greg Harper (to All): yes
+3:45 PM Ethan Solom (to All): yes
+3:52 PM Jiaqi Wang (to All): 3
+3:52 PM Greg Harper (to All): 3gb
+3:52 PM Saurabh Bhalla (to All): 3
+3:52 PM Joseph Tran (to All): 3
+3:52 PM Sajid Nizami (to All): 3
+3:52 PM Prashant Desai (to All): 3
+3:52 PM Jose Fernando Molina Chacon (to All): 3
+3:52 PM Saurabh Bhalla (to All): 3rd option
+3:52 PM Sajid Nizami (to All): 3GB
+3:56 PM Prashant Desai (to All): fax tones
+3:56 PM Brady Thrift (to All): Yes
+3:56 PM Saurabh Bhalla (to All): internet
+3:56 PM Firas Wahdan (to All): dial up
+3:56 PM Brady Thrift (to All): Dial-up modem
+3:56 PM Greg Harper (to All): modem
+3:56 PM Ethan Solom (to All): dial up
+3:56 PM Joseph Tran (to All): sounds like dial up
+3:56 PM Prashant Desai (to All): modem
+4:02 PM Saurabh Bhalla (to All): no
+4:02 PM Michael DiGiorgio (to All): no
+4:02 PM Joseph Tran (to All): no
+4:02 PM Prashant Desai (to All): no
+4:03 PM Sajid Nizami (to All): yes
+4:03 PM Greg Harper (to All): no
+4:06 PM To All: https://s3.us-east-1.amazonaws.com/testonaws.com/images/flask.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3L7L2KSSIZAUNMG5%2F20210406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210406T210640Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3fead43ce1f9b3df3d7ecb9d65b3b1bd1270a74aa5e40379e9e2716e65fa8f27
+4:06 PM Saurabh Bhalla (to All): Can you presign it on the console?
+4:07 PM Prashanth Boovaragavan (to All): i see you
+4:07 PM Brady Thrift (to All): Einstein with you
+4:07 PM Raisa Parveen Syeda (to All): nice one!
+4:07 PM Firas Wahdan (to All): You're in Einstein's flask
+4:07 PM Sajid Nizami (to All): haha
+4:07 PM Saurabh Bhalla (to All): Einstein doing experiments on you
+4:24 PM Greg Harper (to All): true
+4:24 PM Jiaqi Wang (to All): true
+4:24 PM Prashant Desai (to All): true
+4:24 PM Joseph Tran (to All): true
+4:24 PM Saurabh Bhalla (to All): true
+4:24 PM Firas Wahdan (to All): True
+4:24 PM Raisa Parveen Syeda (to All): true
+4:24 PM Brady Thrift (to All): true
+4:24 PM Michael DiGiorgio (to All): true
+4:24 PM Sajid Nizami (to All): true
+4:24 PM To All: ---------
+4:24 PM Saurabh Bhalla (to All): false
+4:24 PM Brady Thrift (to All): False
+4:24 PM Joseph Tran (to All): false lol
+4:24 PM Raisa Parveen Syeda (to All): false
+4:24 PM Prashant Desai (to All): false
+4:24 PM Jose Fernando Molina Chacon (to All): false
+4:24 PM Firas Wahdan (to All): false
+4:24 PM To All: ---------
+4:25 PM Michael DiGiorgio (to All): true
+4:25 PM Prashant Desai (to All): true
+4:25 PM Firas Wahdan (to All): true
+4:25 PM Ethan Solom (to All): true
+4:25 PM Sajid Nizami (to All): true
+4:25 PM Brady Thrift (to All): true
+4:25 PM Joseph Tran (to All): true
+4:25 PM Saurabh Bhalla (to All): true
+4:25 PM To All: ---------
+4:25 PM Jose Fernando Molina Chacon (to All): true
+4:25 PM Saurabh Bhalla (to All): false
+4:25 PM Joseph Tran (to All): true
+4:25 PM Jiaqi Wang (to All): true
+4:25 PM Michael DiGiorgio (to All): true
+4:25 PM Greg Harper (to All): true
+4:25 PM Raisa Parveen Syeda (to All): false
+4:25 PM Brady Thrift (to All): false
+4:25 PM Sajid Nizami (to All): false
+4:26 PM Sajid Nizami (to All): r
+4:27 PM Brady Thrift (to All): True
+4:27 PM Michael DiGiorgio (to All): true
+4:27 PM To All: ---------
+4:27 PM Ethan Solom (to All): true
+4:27 PM Greg Harper (to All): true
+4:27 PM Jiaqi Wang (to All): true
+4:27 PM Joseph Tran (to All): true
+4:27 PM Saurabh Bhalla (to All): true
+4:27 PM Jose Fernando Molina Chacon (to All): true
+4:27 PM Sajid Nizami (to All): true
+4:27 PM Prashant Desai (to All): true
+4:28 PM To All: ---------
+4:28 PM Raisa Parveen Syeda (to All): true
+4:28 PM Prashant Desai (to All): false
+4:28 PM Saurabh Bhalla (to All): false
+4:28 PM Ethan Solom (to All): true
+4:28 PM Joseph Tran (to All): true
+4:28 PM Jiaqi Wang (to All): false
+4:28 PM Sajid Nizami (to All): true
+4:28 PM Brady Thrift (to All): false
+4:32 PM Brady Thrift (to All): Yes
+4:32 PM Brady Thrift (to All): Oh, no
+4:38 PM Gangabarani Balakrishnan (to All): Hi Dipen, Logging off now. Its 3 am local time for me. Will continue with the Lab tomorrow.
+4:38 PM To All: Thanks Ganga.....
+4:43 PM Raisa Parveen Syeda (to All): i only see the readySetGoJavaLab and not the s3JavaLab on my eclipse
+4:47 PM Raisa Parveen Syeda (to All): sorry ignore, guacamole wasnt working again
+4:49 PM To Raisa Parveen Syeda (PRIVATE): That's interesting..... Once in 6 labs is ok, but twice... seems like Qwiklabs likes you.
+4:49 PM Raisa Parveen Syeda (to All): lol!
+4:50 PM Prashanth Boovaragavan (to All): Logging off for the day. Will finish this lab later this evening.
+4:50 PM To All: Thanks.... @ Prashanth B
+4:57 PM Brady Thrift (to All): FYI, I had to change the region in the config file to ap-southeast-2. I'm not sure how it defaulted to this (credentials file??).
+4:58 PM To All: that may be true.... but see if you can update that to us-east-1......
+4:59 PM Brady Thrift (to All): OH. I figured out why. Apparently, the bucket I picked wasn't unique enough and it matched to a bucket there
+5:01 PM To All: oh, that's first time one of my student have such an error.... interesting...
+5:01 PM Brady Thrift (to All): I'm glad I could find something new :)
+5:02 PM To All: :)
+5:02 PM Michael DiGiorgio (to All): Logging off, will finish the lab later. Thanks for a great lesson today @Dipen
+5:02 PM To All: Thanks Michael.....
+5:03 PM Saurabh Bhalla (to All): I get this error when I run my code: Amazon.S3.AmazonS3Exception: 'The specified bucket is not valid.'
+5:03 PM Saurabh Bhalla (to All): HttpErrorResponseException: The remote server returned an error: (400) Bad Request.
+5:04 PM To All: @ Saurabh..... Which step?
+5:04 PM Saurabh Bhalla (to All): Step 3 for .NET. I finished all 7 TODOs and ran my code
+5:05 PM To All: checking....
+5:06 PM To All: when i remote desktop in windows instance, you may lose your session.
+5:06 PM To All: data/work will not be lost...
+5:06 PM Saurabh Bhalla (to All): okay
+5:10 PM Saurabh Bhalla (to All): I might have missed TODO 7 (Enhanced file upload)
+5:12 PM Raisa Parveen Syeda (to All): yes i tried caps and it didnt work
+5:13 PM Raisa Parveen Syeda (to All): right
+5:15 PM Saurabh Bhalla (to All): Thanks both of you!
+5:15 PM Brady Thrift (to All): Thanks Dipen!
+5:15 PM Raisa Parveen Syeda (to All): Thanks Dipen!
+5:15 PM Saurabh Bhalla (to All): bye all. Thanks Dipen!
+5:15 PM Prashant Desai (to All): Thanks
+5:15 PM To All: Good Night all.... see you tomorrow at 9 CST.
+5:16 PM Ethan Solom (to All): Thanks Dipen!
+
+8:47 AM  To All: Good Morning
+8:58 AM  To All: >>>>> MODULE 06: DevelopingWithDynamoDB
+9:01 AM  Sajid Nizami (to All): blue
+9:01 AM  Firas Wahdan (to All): Navy Blue
+9:01 AM  Ethan Solom (to All): blue
+9:01 AM  Prashant Desai (to All): blue
+9:01 AM  Saurabh Bhalla (to All): blue
+9:01 AM  Joseph Tran (to All): blue
+9:01 AM  Michael DiGiorgio (to All): red
+9:05 AM  Saurabh Bhalla (to All): 25
+9:05 AM  Michael DiGiorgio (to All): 25
+9:05 AM  Prashant Desai (to All): 25
+9:05 AM  Firas Wahdan (to All): 25
+9:05 AM  Sajid Nizami (to All): 25
+9:05 AM  Raisa Parveen Syeda (to All): 25
+9:05 AM  Gangabarani Balakrishnan (to All): 25 +5
+9:05 AM  Joseph Tran (to All): 25 and counting
+9:06 AM  Ethan Solom (to All): no
+9:06 AM  Michael DiGiorgio (to All): mm no?
+9:06 AM  Prashant Desai (to All): no
+9:06 AM  Joseph Tran (to All): no
+9:07 AM  Prashant Desai (to All): regional
+9:07 AM  Firas Wahdan (to All): regional
+9:07 AM  Saurabh Bhalla (to All): regional
+9:07 AM  Raisa Parveen Syeda (to All): regional namespace
+9:07 AM  Sajid Nizami (to All): regioanl
+9:07 AM  Jiaqi Wang (to All): regional
+9:07 AM  Joseph Tran (to All): regional
+9:07 AM  Michael DiGiorgio (to All): regional with global namespace
+9:07 AM  Raisa Parveen Syeda (to All): sorry yah
+9:09 AM  Firas Wahdan (to All): Iron Man
+9:09 AM  Saurabh Bhalla (to All): role
+9:09 AM  Prashant Desai (to All): Roles - Iron man
+9:10 AM  Prashant Desai (to All): Thanos
+9:10 AM  Michael DiGiorgio (to All): Thanos with the stones
+9:11 AM  Saurabh Bhalla (to All): iron man?
+9:11 AM  Firas Wahdan (to All): Iron Man
+9:11 AM  Joseph Tran (to All): captain marvel?
+9:11 AM  Saurabh Bhalla (to All): thor
+9:11 AM  Prashant Desai (to All): Captain Marvel
+9:18 AM  Sajid Nizami (to All): aurora?
+9:18 AM  Brady Thrift (to All): DDB?
+9:18 AM  Saurabh Bhalla (to All): dynamodb?
+9:18 AM  Prashant Desai (to All): DynamoDB
+9:22 AM  Joseph Tran (to All): redis
+9:37 AM  Gangabarani Balakrishnan (to All): lol
+9:41 AM  Saurabh Bhalla (to All): depends
+9:41 AM  Jiaqi Wang (to All): 2
+9:41 AM  Brady Thrift (to All): 2
+9:41 AM  Joseph Tran (to All): 2
+9:41 AM  Prashant Desai (to All): depends
+9:41 AM  Sajid Nizami (to All): 25% chance of 1
+9:41 AM  Saurabh Bhalla (to All): 33%
+9:44 AM  Jiaqi Wang (to All): would that 1 be updated to 2 in this read?
+9:45 AM  Saurabh Bhalla (to All): is it always two reads or depends on the number of copies we have?
+9:47 AM  Saurabh Bhalla (to All): strong consistency could also be wrong, if only 1 copy is updated?
+9:47 AM  Saurabh Bhalla (to All): got it, thanks
+9:50 AM  Michael DiGiorgio (to All): nope, took a practice
+9:50 AM  Prashant Desai (to All): yes
+9:50 AM  Joseph Tran (to All): yes
+9:50 AM  Michael DiGiorgio (to All): yep
+9:50 AM  Raisa Parveen Syeda (to All): yes
+9:53 AM  Prashant Desai (to All): 80
+9:53 AM  Brady Thrift (to All): 80
+9:53 AM  Gangabarani Balakrishnan (to All): 80?
+9:54 AM  Joseph Tran (to All): 20
+9:54 AM  Jiaqi Wang (to All): 20
+9:54 AM  Joseph Tran (to All): wait... 15?
+9:54 AM  Prashant Desai (to All): 20
+9:55 AM  Saurabh Bhalla (to All): 10
+9:55 AM  Joseph Tran (to All): 8-10?
+9:57 AM  Gangabarani Balakrishnan (to All): Can the RCUs units only be the multiples of 0.5?
+9:58 AM  Gangabarani Balakrishnan (to All): 20
+9:58 AM  Gangabarani Balakrishnan (to All): *10
+9:58 AM  Raisa Parveen Syeda (to All): 10
+9:58 AM  Saurabh Bhalla (to All): 20
+9:58 AM  Jiaqi Wang (to All): 20
+9:58 AM  Michael DiGiorgio (to All): 20
+9:58 AM  Gangabarani Balakrishnan (to All): Sorry, Strong is 20
+9:58 AM  Ethan Solom (to All): 20
+9:58 AM  Joseph Tran (to All): 20
+10:00 AM  Sajid Nizami (to All): +1
+10:00 AM  Prashant Desai (to All): +1
+10:00 AM  Saurabh Bhalla (to All): +1
+10:00 AM  Michael DiGiorgio (to All): +1
+10:00 AM  Ethan Solom (to All): +1
+10:00 AM  Joseph Tran (to All): +1
+10:00 AM  Firas Wahdan (to All): +1
+10:01 AM  To All: https://testonaws.com/study/shadow.jpg
+10:01 AM  Gangabarani Balakrishnan (to All): me too
+10:01 AM  Brady Thrift (to All): I lost sound
+10:01 AM  Firas Wahdan (to All): Yes
+10:01 AM  Joseph Tran (to All): did anyone else lose sound?
+10:01 AM  Ethan Solom (to All): Yes
+10:01 AM  Jiaqi Wang (to All): +1
+10:01 AM  Saurabh Bhalla (to All): yes
+10:01 AM  Brady Thrift (to All): Can you go back a minute?
+10:02 AM  Michael DiGiorgio (to All): yeah my sound went out
+10:02 AM  Brady Thrift (to All): We lost your audio for ~30 seconds
+10:02 AM  Michael DiGiorgio (to All): maybe just a few mins
+10:02 AM  Michael DiGiorgio (to All): thanks
+10:32 AM  Gangabarani Balakrishnan (to All): The provisioned capacity being required information while creating, what if we want to set it to on-demand during creation?
+10:32 AM  Gangabarani Balakrishnan (to All): cool
+10:43 AM  Joseph Tran (to All): yes
+10:43 AM  Brady Thrift (to All): I can read it
+10:43 AM  Raisa Parveen Syeda (to All): its good
+10:43 AM  Prashant Desai (to All): yes
+10:43 AM  Ethan Solom (to All): It looks good
+10:43 AM  Sajid Nizami (to All): readable
+10:48 AM  Brady Thrift (to All): For GSIs, does it make each partition key required for a create?
+10:50 AM  Brady Thrift (to All): Makes sense, thanks
+11:04 AM  Gangabarani Balakrishnan (to All): sum of digits
+11:07 AM  Brady Thrift (to All): How are RCU/WCUs distributed for multiple partition keys? E.g., GSIs
+11:07 AM  Brady Thrift (to All): ok
+11:11 AM  Brady Thrift (to All): It does, thanks
+11:16 AM  Brady Thrift (to All): false
+11:16 AM  Michael DiGiorgio (to All): false
+11:16 AM  Jiaqi Wang (to All): false
+11:16 AM  Greg Harper (to All): false
+11:16 AM  Raisa Parveen Syeda (to All): false
+11:16 AM  Joseph Tran (to All): false
+11:16 AM  Saurabh Bhalla (to All): false
+11:16 AM  Firas Wahdan (to All): false
+11:16 AM  Gangabarani Balakrishnan (to All): false
+11:16 AM  Jose Fernando Molina Chacon (to All): false
+11:16 AM  Ethan Solom (to All): false
+11:17 AM  To All: ------------
+11:17 AM  Jose Fernando Molina Chacon (to All): true
+11:17 AM  Prashant Desai (to All): true
+11:17 AM  Saurabh Bhalla (to All): true
+11:17 AM  Brady Thrift (to All): true
+11:17 AM  Sajid Nizami (to All): true
+11:17 AM  Joseph Tran (to All): true
+11:18 AM  To All: ------------
+11:18 AM  Saurabh Bhalla (to All): true
+11:18 AM  Prashant Desai (to All): true
+11:18 AM  Firas Wahdan (to All): true
+11:18 AM  Brady Thrift (to All): true
+11:18 AM  Ethan Solom (to All): true
+11:18 AM  Greg Harper (to All): true
+11:18 AM  Joseph Tran (to All): true
+11:18 AM  To All: ------------
+11:18 AM  Greg Harper (to All): false
+11:18 AM  Ethan Solom (to All): false
+11:18 AM  Firas Wahdan (to All): false
+11:18 AM  Michael DiGiorgio (to All): false
+11:18 AM  Saurabh Bhalla (to All): true
+11:18 AM  Jiaqi Wang (to All): false
+11:18 AM  Joseph Tran (to All): false, it's 4
+11:18 AM  Brady Thrift (to All): false
+11:18 AM  Raisa Parveen Syeda (to All): false
+11:18 AM  Jose Fernando Molina Chacon (to All): false
+11:19 AM  To All: ------------
+11:19 AM  Saurabh Bhalla (to All): true
+11:19 AM  Sajid Nizami (to All): true
+11:19 AM  Jiaqi Wang (to All): true
+11:19 AM  Ethan Solom (to All): true
+11:19 AM  Raisa Parveen Syeda (to All): true
+11:19 AM  Gangabarani Balakrishnan (to All): true
+11:19 AM  Joseph Tran (to All): true
+11:19 AM  Greg Harper (to All): true
+11:19 AM  Prashant Desai (to All): true
+11:19 AM  Jose Fernando Molina Chacon (to All): true
+11:19 AM  To All: ------------
+11:20 AM  Gangabarani Balakrishnan (to All): false
+11:20 AM  Joseph Tran (to All): false
+11:20 AM  Jiaqi Wang (to All): false
+11:20 AM  Brady Thrift (to All): false
+11:20 AM  Jose Fernando Molina Chacon (to All): false?
+11:20 AM  Sajid Nizami (to All): false
+11:20 AM  Saurabh Bhalla (to All): false
+11:20 AM  Jose Fernando Molina Chacon (to All): :D
+11:53 AM  Brady Thrift (to All): Are we breaking for lunch right after? I've finished the lab
+11:54 AM  To All: Yes.... we will have lunch from 12:20PM to 1:20PM
+11:54 AM  To All: We will be starting next module at 1:20PM CST.
+12:00 PM Firas Wahdan (to All): Is there a quota limit on these labs? If I wanted to go through it again at a later time using a different language or something?
+12:03 PM To All: @ Firas.... I think student can take each lab 3 times. Access is enabled till 4/8 11:45PM .
+12:05 PM Saurabh Bhalla (to All): My Lab 1 and Lab 3 do not have a check mark. Looks like they are not marked as done. Even though I finished them.
+12:08 PM To All: @ Saurabh... no worries, even I am trying to understand how 'qwiklabs' determine if a lab is done or not. :)
+As long as you learned something from it, that matters.
+12:08 PM Saurabh Bhalla (to All): Alright thanks :)
+12:14 PM To All: How is lab so far? we will be breaking for lunch at 12:20. Starting our next module at 1:20PM CST.
+12:15 PM Michael DiGiorgio (to All): good! all done
+12:15 PM Saurabh Bhalla (to All): Done!
+12:19 PM To All: Great... thanks....
+12:20 PM To All: We are starting our lunch and then we will start our next module at 1:20PM .
+12:20 PM To All: thank you everyone....
+12:26 PM Prashanth Boovaragavan (PRIVATE): Hey Dipen, I moved to a new apartment last evening. Tried to setup the internet connectivity. I still have problems doing the setup. I am doing a LTE hotspot and attending the class. I will finish the labs by today evening once I have the setup complete. It is very slow with the tmobile hotspot
+1:20 PM Raisa Parveen Syeda (to All): Hawaii
+1:20 PM Brady Thrift (to All): Hawaii
+1:20 PM Firas Wahdan (to All): Spain
+1:20 PM Prashant Desai (to All): Portugal
+1:21 PM Sajid Nizami (to All): Italy
+1:21 PM Saurabh Bhalla (to All): Ski Resorts Colorado
+1:22 PM Saurabh Bhalla (to All): haha
+1:27 PM Raisa Parveen Syeda (to All): +1
+1:27 PM Prashant Desai (to All): +!
+1:28 PM Saurabh Bhalla (to All): You woke up my alexa
+1:28 PM Prashant Desai (to All): same here ...
+1:28 PM Joseph Tran (to All): this is why i use headphones lol
+1:33 PM Gangabarani Balakrishnan (to All): 8?
+1:33 PM Brady Thrift (to All): 10
+1:34 PM Sajid Nizami (to All): 10
+1:35 PM Saurabh Bhalla (to All): wgat you see is what you get
+1:40 PM Gangabarani Balakrishnan (to All): kalispell, MO
+1:40 PM Joseph Tran (to All): philadelphia
+1:40 PM Brady Thrift (to All): Tempe, Arizona
+1:40 PM Firas Wahdan (to All): Washington DC
+1:40 PM Ethan Solom (to All): Phoenix AZ
+1:41 PM Joseph Tran (to All): more or less, a little more sunny in philadelphia
+1:41 PM Brady Thrift (to All): Tempe is accurate
+1:43 PM Brady Thrift (to All): What is the time to scale for a burst of traffic that size?
+1:44 PM To All: https://firecracker-microvm.github.io/
+1:47 PM Sajid Nizami (to All): Received it - saw it this morning.
+1:52 PM Prashant Desai (to All): custom runtime?
+1:54 PM Brady Thrift (to All): In terms of Lambda cold start times/efficiencies, is there any data comparing Node vs Java vs .NET (e.g.,)?
+1:56 PM Brady Thrift (to All): Fair enough :)
+2:07 PM Brady Thrift (to All): The all calls are limited to 15 minutes, that includes direct invocation?
+2:10 PM Michael DiGiorgio (to All): is that ssh?
+2:10 PM Sajid Nizami (to All): smtp
+2:20 PM To All: -----------
+2:20 PM Saurabh Bhalla (to All): True
+2:21 PM Michael DiGiorgio (to All): true
+2:21 PM Jose Fernando Molina Chacon (to All): true
+2:21 PM Ethan Solom (to All): true
+2:21 PM Sajid Nizami (to All): true
+2:21 PM To All: -----------
+2:21 PM Brady Thrift (to All): false
+2:21 PM Saurabh Bhalla (to All): True
+2:21 PM Prashant Desai (to All): true
+2:21 PM Sajid Nizami (to All): true
+2:21 PM Joseph Tran (to All): true
+2:22 PM Jose Fernando Molina Chacon (to All): false
+2:22 PM Saurabh Bhalla (to All): false
+2:22 PM Brady Thrift (to All): false
+2:22 PM Ethan Solom (to All): false
+2:22 PM Raisa Parveen Syeda (to All): false
+2:22 PM Joseph Tran (to All): false
+2:22 PM To All: -----------
+2:22 PM Brady Thrift (to All): true
+2:22 PM Ethan Solom (to All): true
+2:22 PM Joseph Tran (to All): true
+2:22 PM Saurabh Bhalla (to All): true
+2:25 PM To All: >>>>> MODULE 09: DevelopingWithStepFunctions
+2:51 PM Brady Thrift (to All): Do states emit CloudWatch metrics and log data?
+2:52 PM Brady Thrift (to All): What about non-Lambda states?
+2:52 PM Brady Thrift (to All): ok, thanks
+2:53 PM Brady Thrift (to All): Cool, thanks!
+2:58 PM To All: ------------
+2:58 PM Prashant Desai (to All): false
+2:58 PM Jiaqi Wang (to All): false
+2:58 PM Joseph Tran (to All): false
+2:58 PM Ethan Solom (to All): false
+2:59 PM Jose Fernando Molina Chacon (to All): false
+2:59 PM To All: ------------
+2:59 PM Ethan Solom (to All): true
+2:59 PM Prashant Desai (to All): true
+2:59 PM Jose Fernando Molina Chacon (to All): true
+2:59 PM Jiaqi Wang (to All): true
+2:59 PM Sajid Nizami (to All): true
+2:59 PM Saurabh Bhalla (to All): true
+2:59 PM Joseph Tran (to All): true
+2:59 PM To All: ------------
+2:59 PM Prashant Desai (to All): true
+2:59 PM Sajid Nizami (to All): true
+2:59 PM Joseph Tran (to All): true
+2:59 PM Raisa Parveen Syeda (to All): true
+3:00 PM Saurabh Bhalla (to All): true
+3:00 PM Jose Fernando Molina Chacon (to All): true
+3:00 PM To All: ------------
+3:00 PM Jose Fernando Molina Chacon (to All): false
+3:00 PM Prashant Desai (to All): false
+3:00 PM Ethan Solom (to All): false
+3:00 PM Joseph Tran (to All): false
+3:00 PM Jiaqi Wang (to All): false
+3:00 PM Saurabh Bhalla (to All): false?
+3:01 PM To All: ------------
+3:01 PM Prashanth Boovaragavan (to All): true
+3:01 PM Prashant Desai (to All): true
+3:01 PM Saurabh Bhalla (to All): true
+3:01 PM Raisa Parveen Syeda (to All): true
+3:01 PM Sajid Nizami (to All): true
+3:01 PM Joseph Tran (to All): true
+3:01 PM Jose Fernando Molina Chacon (to All): true
+3:01 PM To All: ------------
+3:01 PM Prashanth Boovaragavan (to All): true
+3:01 PM Ethan Solom (to All): True
+3:01 PM Saurabh Bhalla (to All): true
+3:01 PM Raisa Parveen Syeda (to All): true
+3:01 PM Prashant Desai (to All): true
+3:01 PM Joseph Tran (to All): true
+3:02 PM Saurabh Bhalla (to All): Do state machines and its steps not need IAM   permissions
+3:06 PM To All: If one of the state, which is lambda function, requires access to DynamodDB table, then it has to use role to get temporary permission to DynamoDB table.
+3:46 PM Brady Thrift (to All): Can throttling be done based on Cognito JWTs? Or does that need to be done within the application?
+3:46 PM Brady Thrift (to All): I mean per-user
+3:46 PM Brady Thrift (to All): Or authenticated user
+3:46 PM Brady Thrift (to All): ok
+3:51 PM Brady Thrift (to All): lol
+3:54 PM To All: ----------
+3:54 PM Jose Fernando Molina Chacon (to All): true
+3:54 PM Saurabh Bhalla (to All): True
+3:54 PM Sajid Nizami (to All): true
+3:54 PM Ethan Solom (to All): true
+3:54 PM Prashant Desai (to All): true
+3:54 PM Raisa Parveen Syeda (to All): true
+3:55 PM Brady Thrift (to All): true
+3:55 PM To All: ----------
+3:55 PM Prashant Desai (to All): false
+3:55 PM Brady Thrift (to All): false
+3:55 PM Joseph Tran (to All): false
+3:55 PM Ethan Solom (to All): false
+3:55 PM Saurabh Bhalla (to All): false
+3:55 PM Jose Fernando Molina Chacon (to All): false
+3:55 PM Sajid Nizami (to All): false
+3:56 PM To All: ----------
+3:56 PM Prashant Desai (to All): false
+3:56 PM Brady Thrift (to All): false
+3:56 PM Jiaqi Wang (to All): false
+3:56 PM Firas Wahdan (to All): false
+3:56 PM Raisa Parveen Syeda (to All): false, 5000
+3:56 PM Joseph Tran (to All): false
+3:56 PM Sajid Nizami (to All): false ..
+3:56 PM Jose Fernando Molina Chacon (to All): false
+3:56 PM To All: ----------
+3:57 PM Prashanth Boovaragavan (to All): true
+3:57 PM Ethan Solom (to All): true
+3:57 PM Saurabh Bhalla (to All): true
+3:57 PM Prashant Desai (to All): true
+3:57 PM Joseph Tran (to All): true
+3:57 PM Jose Fernando Molina Chacon (to All): true
+3:57 PM To All: ----------
+3:57 PM Prashanth Boovaragavan (to All): true
+3:57 PM Sajid Nizami (to All): true
+3:57 PM Prashant Desai (to All): true
+3:57 PM Raisa Parveen Syeda (to All): true
+3:57 PM Ethan Solom (to All): true
+3:57 PM Saurabh Bhalla (to All): True
+3:57 PM Joseph Tran (to All): true
+3:58 PM To All: ----------
+3:58 PM Saurabh Bhalla (to All): True
+3:58 PM Sajid Nizami (to All): true
+3:58 PM Michael DiGiorgio (to All): true
+3:58 PM Joseph Tran (to All): true
+3:58 PM Jiaqi Wang (to All): true
+3:58 PM Raisa Parveen Syeda (to All): true
+3:58 PM Jose Fernando Molina Chacon (to All): true
+4:01 PM Prashanth Boovaragavan (PRIVATE): Hey Dipen, My internet connection is not fixed yet. I have a technician coming in to fix it now. Will do the lab once I fix this problem. Whole day has been on and off for me.
+4:02 PM To Prashanth Boovaragavan (PRIVATE): Yes, not a problem at all...... labs are to ensure that you will have some practical experience with services that you can apply to your actual job.
+4:03 PM Prashanth Boovaragavan (PRIVATE): Yeah I need to finish the backlogs before tomorrow since tomorrow is the last day. I will update you once I am done and if I have any questions related to any labs. Thank you
+4:07 PM To Prashanth Boovaragavan (PRIVATE): Sure, np.... worse case, let me know by tomorrow so I can create another 3 day lab for you exclusively. So you can have weekend to cover them.
+4:08 PM Prashanth Boovaragavan (PRIVATE): For sure
+4:08 PM Prashanth Boovaragavan (PRIVATE): thank you
+4:09 PM To Prashanth Boovaragavan (PRIVATE): yw
+4:14 PM Raisa Parveen Syeda (to All): I am not able to see place to check Updated Lambda console on the Lambda dashboard.
+4:14 PM Raisa Parveen Syeda (to All): should i look somewhere else?
+4:14 PM To All: which step is that?
+4:14 PM Raisa Parveen Syeda (to All): 63
+4:15 PM Raisa Parveen Syeda (to All): Java
+4:15 PM To All: checking
+4:16 PM Raisa Parveen Syeda (to All): sure thanks!
+4:18 PM Raisa Parveen Syeda (to All): yes thanks!
+4:35 PM Brady Thrift (to All): For the challenge, my Lambda's code isn't being updated. Maven seems to be succeeding, but it doesn't appear to be updated.
+4:35 PM To All: checking
+4:36 PM Brady Thrift (to All): us-east-1
+4:38 PM Brady Thrift (to All): 3.7
+4:40 PM Brady Thrift (to All): For 3.7 I did update the code to output the count
+4:42 PM Brady Thrift (to All): No
+4:42 PM Brady Thrift (to All): I just ran the Maven command
+4:42 PM Brady Thrift (to All): Oh, I missed re-running a step
+4:42 PM Brady Thrift (to All): the aws command
+4:43 PM To All: """aws lambda update-function-code --function-name JavaCalculator --zip-file fileb://calculator-1.0.1.jar"""
+4:44 PM Brady Thrift (to All): That worked
+4:45 PM To All: fantastic.... :thumbsup
+4:45 PM Brady Thrift (to All): Thanks Dipen!
+4:45 PM Prashant Desai (to All): thanks Dipen
+4:45 PM Sajid Nizami (to All): thnks
+4:46 PM Raisa Parveen Syeda (to All): Thank you!
+4:46 PM Ethan Solom (to All): Thanks!
+4:46 PM Jiaqi Wang (to All): See you! thx
+4:46 PM To All: Thanks everyone.... Good Night....!!!
+4:46 PM Saurabh Bhalla (to All): I pushed my lambda code to wrong name. And it created a new Lambda. I dont have permission to delete it now. Why is that?
+4:47 PM Saurabh Bhalla (to All): Ahh got it!
+4:48 PM Saurabh Bhalla (to All): Also, this might be out of scope of the training, but how would I fetch an existing lambda locally to edit it?
+4:51 PM Saurabh Bhalla (to All): I am sorry my internet connection dropped after you said it is not out of scope. :( Would you please repeat it?
+4:52 PM Joseph Tran (to All): great all done
+4:52 PM Saurabh Bhalla (to All): Alright thanks :)
+4:52 PM To All: Good Night!!!
+4:52 PM Joseph Tran (to All): thank you, good night!
+4:53 PM Saurabh Bhalla (to All): good night!
+
+9:00 AM To All: >>>>> MODULE 10: DevelopingWithSQS_SNS
+9:01 AM To All: Good Morning All!!!!
+9:01 AM Michael DiGiorgio (to All): mornin!
+9:01 AM Firas Wahdan (to All): VW GTI
+9:01 AM Sajid Nizami (to All): chiron
+9:01 AM Firas Wahdan (to All): Tried to be reasonable with what I'd afford lol
+9:01 AM Joseph Tran (to All): 67 chevy impala would be cool though i would not know how to take care of it
+9:01 AM Sajid Nizami (to All): yes
+9:02 AM Joseph Tran (to All): it's the car from Supernatural
+9:05 AM Saurabh Bhalla (to All): 60
+9:05 AM Joseph Tran (to All): 30
+9:05 AM Jiaqi Wang (to All): 30
+9:06 AM Ethan Solom (to All): 30
+9:06 AM Michael DiGiorgio (to All): 30
+9:07 AM Saurabh Bhalla (to All): got it
+9:08 AM Joseph Tran (to All): 1400
+9:08 AM Sajid Nizami (to All): 1400
+9:08 AM Jiaqi Wang (to All): 1400
+9:08 AM Saurabh Bhalla (to All): 1400
+9:08 AM Prashant Desai (to All): 1400
+9:08 AM Gangabarani Balakrishnan (to All): 1400
+9:09 AM Brady Thrift (to All): Batch returns the failures
+Transact entire thing fails
+9:11 AM Brady Thrift (to All): Can you repeat the question?
+9:12 AM Prashant Desai (to All): parameter store?
+9:12 AM Michael DiGiorgio (to All): ssm?
+9:12 AM Michael DiGiorgio (to All): secrets manager
+9:31 AM Michael DiGiorgio (to All): does that include the consumer deleting it at the end?
+9:31 AM Michael DiGiorgio (to All): the timeout
+9:31 AM Michael DiGiorgio (to All): deleting off the queue
+9:32 AM Michael DiGiorgio (to All): got it
+9:51 AM Brady Thrift (to All): yes
+9:51 AM Gangabarani Balakrishnan (to All): yes
+9:55 AM Brady Thrift (to All): Yes
+9:55 AM Saurabh Bhalla (to All): dog
+9:55 AM Joseph Tran (to All): cat owner, used to have a dog
+9:56 AM Brady Thrift (to All): Yes
+9:56 AM Saurabh Bhalla (to All): yeah
+9:56 AM Raisa Parveen Syeda (to All): yes
+9:56 AM Gangabarani Balakrishnan (to All): yea
+9:56 AM Ethan Solom (to All): Yes
+9:56 AM Joseph Tran (to All): all the time
+10:05 AM Brady Thrift (to All): I have not
+10:05 AM Lawson Cofield (to All): Apache Kafka, yes
+10:07 AM To All: ---------
+10:07 AM Saurabh Bhalla (to All): true
+10:07 AM Prashant Desai (to All): true
+10:07 AM Gangabarani Balakrishnan (to All): true
+10:07 AM Michael DiGiorgio (to All): true
+10:07 AM Ethan Solom (to All): true
+10:07 AM Joseph Tran (to All): true
+10:07 AM Jiaqi Wang (to All): true
+10:08 AM Sajid Nizami (to All): true
+10:08 AM To All: ---------
+10:08 AM Gangabarani Balakrishnan (to All): false
+10:08 AM Saurabh Bhalla (to All): false
+10:08 AM Joseph Tran (to All): false
+10:08 AM Jiaqi Wang (to All): false
+10:08 AM Prashant Desai (to All): false
+10:08 AM Ethan Solom (to All): false
+10:08 AM Raisa Parveen Syeda (to All): false
+10:08 AM Michael DiGiorgio (to All): false
+10:08 AM To All: ---------
+10:08 AM Saurabh Bhalla (to All): false
+10:08 AM Joseph Tran (to All): false
+10:08 AM Prashant Desai (to All): false
+10:08 AM Brady Thrift (to All): false
+10:09 AM To All: ---------
+10:09 AM Saurabh Bhalla (to All): true
+10:09 AM Prashant Desai (to All): true
+10:09 AM Gangabarani Balakrishnan (to All): true
+10:09 AM Joseph Tran (to All): true
+10:10 AM To All: ---------
+10:10 AM Prashant Desai (to All): true
+10:10 AM Michael DiGiorgio (to All): true
+10:10 AM Raisa Parveen Syeda (to All): true
+10:10 AM Saurabh Bhalla (to All): true
+10:10 AM Ethan Solom (to All): true
+10:10 AM Joseph Tran (to All): true
+10:10 AM Brady Thrift (to All): true
+10:10 AM Gangabarani Balakrishnan (to All): true
+10:10 AM Sajid Nizami (to All): true
+10:11 AM To All: >>>>> MODULE 12: DevelopingSecureApplications
+10:22 AM Brady Thrift (to All): +1
+10:23 AM Prashant Desai (to All): +1
+10:53 AM To All: -----------
+10:53 AM Brady Thrift (to All): false
+10:53 AM Prashant Desai (to All): false
+10:53 AM Joseph Tran (to All): false
+10:53 AM Jiaqi Wang (to All): false
+10:53 AM Saurabh Bhalla (to All): false
+10:53 AM Sajid Nizami (to All): no
+10:53 AM Ethan Solom (to All): false
+10:54 AM To All: -----------
+10:54 AM Brady Thrift (to All): false
+10:54 AM Joseph Tran (to All): false
+10:54 AM Prashant Desai (to All): false
+10:54 AM Sajid Nizami (to All): false
+10:54 AM Gangabarani Balakrishnan (to All): false
+10:54 AM Ethan Solom (to All): false
+10:54 AM Saurabh Bhalla (to All): no
+10:54 AM Jiaqi Wang (to All): false
+10:54 AM Saurabh Bhalla (to All): false
+10:54 AM To All: -----------
+10:54 AM Gangabarani Balakrishnan (to All): true
+10:54 AM Prashant Desai (to All): true
+10:54 AM Joseph Tran (to All): true
+10:54 AM Saurabh Bhalla (to All): true
+10:55 AM Raisa Parveen Syeda (to All): true
+10:55 AM Jiaqi Wang (to All): true
+10:55 AM To All: -----------
+10:55 AM Saurabh Bhalla (to All): false
+10:55 AM Prashant Desai (to All): false
+10:55 AM Joseph Tran (to All): false
+10:55 AM Gangabarani Balakrishnan (to All): false
+10:55 AM To All: -----------
+10:55 AM Prashanth Boovaragavan (to All): false
+10:55 AM Prashant Desai (to All): flase
+10:55 AM Joseph Tran (to All): false
+10:56 AM Saurabh Bhalla (to All): false
+11:18 AM Joseph Tran (to All): does it take a while for subscriptions to pop up in SNS?
+11:19 AM To All: @ Joe... if it is a phone number then it may delay a bit..... My recommendation is to try with your email address.
+11:19 AM Joseph Tran (to All): i used an email
+11:20 AM Joseph Tran (to All): i got my confirmation email already and confirmed, but after i've subscribed to SNS it doesn't show up in my subscriptions list
+11:22 AM Joseph Tran (to All): 100, java
+11:24 AM Joseph Tran (to All): doublechecking but i don't believe so
+11:24 AM Joseph Tran (to All): i do remember that the queues didn't show up until i messed with the search
+11:24 AM Joseph Tran (to All): and then they populated, i figured it was a small glitch
+11:26 AM Joseph Tran (to All): also noticed the steps are slightly outdated, i don't have an actions tab but found the subscribe to sns button directly
+11:27 AM Joseph Tran (to All): ah the arn may be wrong, i'm east coast
+11:27 AM Joseph Tran (to All): but the arn is west
+11:30 AM Joseph Tran (to All): yep the access policy that was autogenerated took to a west resource instead of east
+11:32 AM To All: 👍.... did it work after fixing it?
+11:34 AM Joseph Tran (to All): ...nope
+11:35 AM Joseph Tran (to All): i deleted and readded the queues, still nothing shows up in my SNS subscriptions
+11:35 AM To All: Did you completed the code deployment part? Steps 102 onwards?
+11:35 AM Saurabh Bhalla (to All): Done. Got the email notification
+11:35 AM Joseph Tran (to All): wait a minute
+11:36 AM To All: Thanks.... Saurabh....👍
+11:36 AM Joseph Tran (to All): that's strange, if i go directly through SNS the subscriptions won't show
+11:36 AM Joseph Tran (to All): but if i go through SQS to each queue and select view from SNS and then go up a level they show
+11:37 AM Joseph Tran (to All): yeah it's glitchy but i'm where i need to be
+11:51 AM Brady Thrift (to All): For me (I didn't notice at first), I created the SNS topics in us-east-1. I opened the SQS page and the region changed to us-west-2 automatically and I created the SQS queues there. I had to re-create them in us-east-1 for them to work with the code.
+11:52 AM Raisa Parveen Syeda (to All): +1
+11:54 AM To All: That's very typical and that's why checking region is always most important part of the lab. This will also helps in actual environment.
+11:54 AM To All: @ Michael, you have raised your hand. Do you have a question?
+11:55 AM Jiaqi Wang (to All): I saw the com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException shown when I run the tests, is that expected?
+11:55 AM Michael DiGiorgio (to All): sorry was by accident
+11:55 AM To All: @ Jiaqi, which language and step?
+11:56 AM To All: @ Miachel... no worries
+11:58 AM Joseph Tran (to All): must've ran into another similar issue, nothing is showing up in queues
+12:00 PM Jiaqi Wang (to All): java step 131
+12:00 PM Joseph Tran (to All): yep
+12:00 PM Joseph Tran (to All): just a note i did receive an email indicating my pharmaceutical order
+12:04 PM Joseph Tran (to All): yeah so the code works
+12:04 PM Joseph Tran (to All): when i look at my queues in SQS nothing's populated
+12:05 PM Joseph Tran (to All): yeah that's strange
+12:05 PM Joseph Tran (to All): i think my browser's just having glitches overall
+12:05 PM Brady Thrift (to All): You need to click the "Poll" button in the aws console
+12:05 PM Joseph Tran (to All): first not seeing the subscriptions then not seeing the queues
+12:06 PM Joseph Tran (to All): probably need to clear my cache or something but i'll move on if you're able to confirm my code worked as expected
+12:07 PM Brady Thrift (to All): Joseph, try refreshing and make sure the regions match between SQS and SNS
+12:08 PM Joseph Tran (to All): yep, somehow even though i made the queues to be east SNS has them up as west again...
+12:09 PM Jiaqi Wang (to All): yup
+12:10 PM To All: Lunch..... 1PM  for new module.
+12:12 PM Joseph Tran (to All): oh NOW my queues show up >.<
+12:59 PM To All: 😄
+12:59 PM To All: May be it is working in different time zone.... 😂
+1:00 PM Saurabh Bhalla (to All): yosemite
+1:00 PM Gangabarani Balakrishnan (to All): Glacier NP
+1:01 PM Raisa Parveen Syeda (to All): Yellowstone NP
+1:01 PM Greg Harper (to All): yosemite
+1:01 PM Joseph Tran (to All): haven't been to any in the US
+1:01 PM Joseph Tran (to All): and i can't spell the ones in Iceland
+1:20 PM To All: ---------
+1:20 PM Saurabh Bhalla (to All): true
+1:20 PM Raisa Parveen Syeda (to All): true
+1:20 PM Joseph Tran (to All): true
+1:21 PM Saurabh Bhalla (to All): INfrequently
+1:21 PM Joseph Tran (to All): ahh infrequently
+1:21 PM Raisa Parveen Syeda (to All): ahh
+1:21 PM Saurabh Bhalla (to All): false
+1:21 PM To All: ---------
+1:21 PM Brady Thrift (to All): true
+1:21 PM Saurabh Bhalla (to All): true
+1:21 PM Joseph Tran (to All): true
+1:21 PM Prashant Desai (to All): true
+1:21 PM Gangabarani Balakrishnan (to All): true
+1:21 PM Firas Wahdan (to All): true
+1:21 PM Sajid Nizami (to All): true
+1:22 PM To All: ---------
+1:22 PM Brady Thrift (to All): true
+1:22 PM Prashant Desai (to All): true
+1:22 PM Gangabarani Balakrishnan (to All): true
+1:22 PM Raisa Parveen Syeda (to All): true
+1:22 PM Joseph Tran (to All): true
+1:22 PM To All: ---------
+1:22 PM Sajid Nizami (to All): true
+1:22 PM To All: ---------
+1:22 PM Saurabh Bhalla (to All): true
+1:22 PM Prashant Desai (to All): true
+1:22 PM Raisa Parveen Syeda (to All): true
+1:22 PM Firas Wahdan (to All): true
+1:22 PM Joseph Tran (to All): true
+1:22 PM Sajid Nizami (to All): true
+1:22 PM Gangabarani Balakrishnan (to All): true
+1:23 PM To All: ---------
+1:23 PM Saurabh Bhalla (to All): true
+1:23 PM Brady Thrift (to All): true
+1:23 PM Gangabarani Balakrishnan (to All): true
+1:23 PM Prashant Desai (to All): true
+1:23 PM Raisa Parveen Syeda (to All): true
+1:23 PM Ethan Solom (to All): true
+1:23 PM Joseph Tran (to All): true
+1:23 PM To All: ---------
+1:23 PM Brady Thrift (to All): false
+1:23 PM Gangabarani Balakrishnan (to All): false
+1:23 PM Ethan Solom (to All): false
+1:23 PM Prashant Desai (to All): false
+1:23 PM Saurabh Bhalla (to All): false
+1:24 PM Prashant Desai (to All): no break
+1:24 PM Gangabarani Balakrishnan (to All): A
+1:24 PM Saurabh Bhalla (to All): A
+1:24 PM Joseph Tran (to All): A
+1:24 PM Brady Thrift (to All): No break - A
+1:25 PM To All: >>>>> MODULE 13: DeployingApplications
+1:25 PM Brady Thrift (to All): Didn't we cover this?
+1:36 PM Saurabh Bhalla (to All): if there's a failure/code bug in prod after dfeployment? Do we roll back?
+1:36 PM Saurabh Bhalla (to All): Okay
+1:37 PM Joseph Tran (to All): yes
+1:47 PM To All: https://testonaws.com/study/bgdeploy.gif
+1:52 PM To All: https://testonaws.com/study/canary.gif
+1:52 PM Saurabh Bhalla (to All): thanks that was very helpful
+1:54 PM Joseph Tran (to All): german engineering?
+1:54 PM Sajid Nizami (to All): selling
+1:54 PM Saurabh Bhalla (to All): not using indicators
+1:54 PM Brady Thrift (to All): Creating an image of luxury?
+1:54 PM Brady Thrift (to All): > not using indicators
+hahahaha
+1:54 PM Joseph Tran (to All): i get that problem from mercedes drivers lol
+1:54 PM Saurabh Bhalla (to All): haha
+2:13 PM To All: http://dd-env-test-20210408.eba-ub2jzhka.us-east-1.elasticbeanstalk.com/
+2:14 PM To All: -----------
+2:14 PM Raisa Parveen Syeda (to All): true
+2:14 PM Prashant Desai (to All): true
+2:14 PM Joseph Tran (to All): true
+2:14 PM Prashanth Boovaragavan (to All): true
+2:14 PM Saurabh Bhalla (to All): true
+2:14 PM Ethan Solom (to All): true
+2:14 PM To All: -----------
+2:14 PM Prashant Desai (to All): true
+2:14 PM Saurabh Bhalla (to All): true
+2:14 PM Michael DiGiorgio (to All): true
+2:14 PM Raisa Parveen Syeda (to All): true
+2:14 PM Joseph Tran (to All): true
+2:15 PM To All: -----------
+2:15 PM Prashanth Boovaragavan (to All): true
+2:15 PM Prashant Desai (to All): true
+2:15 PM Joseph Tran (to All): true
+2:15 PM Saurabh Bhalla (to All): true
+2:15 PM Sajid Nizami (to All): true
+2:15 PM To All: -----------
+2:15 PM Prashanth Boovaragavan (to All): false
+2:15 PM Joseph Tran (to All): false
+2:15 PM Prashant Desai (to All): false
+2:16 PM Ethan Solom (to All): false
+2:16 PM Prashant Desai (to All): Code Build
+2:16 PM Michael DiGiorgio (to All): CodeBuild
+2:16 PM To All: -----------
+2:16 PM Prashant Desai (to All): true
+2:16 PM Joseph Tran (to All): true
+2:16 PM Sajid Nizami (to All): true
+2:17 PM To All: -----------
+2:17 PM Prashanth Boovaragavan (to All): false
+2:17 PM Brady Thrift (to All): True
+2:17 PM Ethan Solom (to All): false
+2:17 PM Joseph Tran (to All): false
+2:18 PM Saurabh Bhalla (to All): false
+2:18 PM Prashant Desai (to All): false
+2:18 PM Joseph Tran (to All): kinda subjective
+2:24 PM Joseph Tran (to All): learned that the hard way
+2:28 PM Gangabarani Balakrishnan (to Presenter): Hi Dipen, when will be the test?
+2:30 PM To All: aws.training
+2:31 PM To All: https://kiku.aws.training/Account/Transcript/Archived
+2:31 PM To All: https://aws.training/Account/Transcript/Archived
+2:31 PM Gangabarani Balakrishnan (to All): ah, got it.
+2:32 PM Raisa Parveen Syeda (to All): thanks!
+2:42 PM Prashanth Boovaragavan (PRIVATE): Hi Dipen, My internet connection got fixed very late last night, I was not able to find time to go over all labs. Is it possible to get an extension?
+2:43 PM To Prashanth Boovaragavan (PRIVATE): let me work on that.... i will send you details in private.
+2:52 PM Prashanth Boovaragavan (PRIVATE): thank you
+2:53 PM Michael DiGiorgio (to All): @Dipen you weren't kidding about this changing the region on you a lot
+2:56 PM To All: @ Michael.....😄😄
+2:56 PM To All: this lab is really notorious about it.... not sure... no other lab in any other course does something like this.
+3:13 PM To All: @ All.... be right back.... 10 mins
+3:28 PM Saurabh Bhalla (to All): Trying to publish my first lambda code to AWS (Step 83). The AWS Toolkit is asking for account profile to use
+3:31 PM Saurabh Bhalla (to All): Do I have to create an Access Key and import the csv here?
+3:33 PM To All: @ Saurabh..... checking
+3:34 PM To All: Are you deploying solution code / your own code?
+3:35 PM Saurabh Bhalla (to All): Solution
+3:35 PM To All: Java / .NET?
+3:35 PM Saurabh Bhalla (to All): .NET
+3:37 PM Saurabh Bhalla (to All): okay
+3:45 PM Saurabh Bhalla (to All): I copied in the notepad. It should be open
+3:45 PM Saurabh Bhalla (to All): on the remote desktop
+3:46 PM Saurabh Bhalla (to All): I can continue in JAVA if thats helpful. Im sure all the steps before creating the first lambda are same
+3:50 PM Saurabh Bhalla (to All): Yeah its weird. Ill try with Java
+3:54 PM Saurabh Bhalla (to All): Theres no eclipse on remote desktop
+3:55 PM Saurabh Bhalla (to All): seems like the remote desktop creation might have had a problem
+3:55 PM To All: that's strange... let me check one more time. If you want you have rights to download and install.
+3:55 PM To All: If this is giving you a lot of trouble, then end the lab and re-start a new one.
+3:57 PM Saurabh Bhalla (to All): I can download and install but I will not have the AWS toolkit extension set up
+3:58 PM To All: true.... let's start a new lab.... hopefully that should fix issues.
+3:58 PM Saurabh Bhalla (to All): alright
+3:58 PM To All: we can extend the session to complete the lab. So that should be ok.
+3:58 PM Saurabh Bhalla (to All): Thanks :)
+4:03 PM Prashant Desai (to All): Is there logs for cognito in CloudWatch? After I login I see "Session Expired! Click here to login again"
+4:03 PM Saurabh Bhalla (to All): I ended my lab and restarted it
+4:04 PM To All: If session remains idle for a long time, it may happen. Let me check if user sessions logs are added to cloudwatch or not.
+4:05 PM Prashant Desai (to All): I created another user, and logged in. After login it says Session Expired
+4:06 PM Saurabh Bhalla (to All): interesting
+4:06 PM To All: Need to check Cognito user pool settings.
+4:08 PM To All: it all looks good.... try logging again with any of the existing users
+4:09 PM To All: Previous authentication attemps seems to have succeeded correctly.
+4:09 PM Saurabh Bhalla (to All): The lambda is also pushed?
+4:09 PM To All: See if you can try in different browser / clear cache.
+4:10 PM To All: I can see all lambda functions.
+4:10 PM Prashant Desai (to All): http://polly-notes-web-p-d.s3-website-us-east-1.amazonaws.com/
+4:10 PM Prashant Desai (to All): I tried firefox, safari, and chrome
+4:10 PM Saurabh Bhalla (to All): I lost the password to the remote desktop because i ended the lab
+4:11 PM Prashanth Boovaragavan (PRIVATE): anyone seeing this error ?
+1 validation error detected: Value 'arn:aws:cognito-idp:us-east-1:260118273546:userpool/us-east-1_F5doNqCcR' at 'clientId' failed to satisfy constraint: Member must satisfy regular expression pattern: [\w+]+
+4:11 PM Prashanth Boovaragavan (to All): anyone seeing this error ?
+1 validation error detected: Value 'arn:aws:cognito-idp:us-east-1:260118273546:userpool/us-east-1_F5doNqCcR' at 'clientId' failed to satisfy constraint: Member must satisfy regular expression pattern: [\w+]+
+4:13 PM Saurabh Bhalla (to All): that looks like userpool id in client id field
+4:13 PM To All: @ Prashanth B.... that means clientID has incorrect format. Need to check again.
+4:15 PM To All: @ Prashant Desai.... This is strange.... it takes you to home page, but login is not working.
+4:16 PM Prashant Desai (to All): yeah
+4:18 PM To All: API Gateway error is causing this....
+4:19 PM To All: @ Prashant Desai.... Please recheck "API Gateway
+4:19 PM Prashant Desai (to All): will do, thanks
+4:20 PM To All: As per error, it seems like
+4:20 PM To All: As per error, it seems like "GET" method is missing in "notes" end point.
+4:21 PM Prashant Desai (to All): interesting .. it was working until I imported Swagger.
+4:22 PM Prashant Desai (to All): override
+4:22 PM Brady Thrift (to All): It defaults to override :(
+4:23 PM Prashant Desai (to All): ok - got it. Will try it ..
+4:24 PM Brady Thrift (to All): I'm finishing up the challenge part, why is the expression attribute value prefixed with "v_" ?
+4:25 PM To All: https://kiku.aws.training/Account/Transcript/Archived
+4:25 PM Brady Thrift (to All): I'm working on the challenge, writing the code. Java
+4:25 PM Brady Thrift (to All): E.g., .withFilterExpression("contains (note, :v_note)")
+4:26 PM Brady Thrift (to All): Ok, makes sense. I thought it might be some sort of special prefix
+4:31 PM Brady Thrift (to All): Dipen, in terms of the exam, how long after the course(s) will the content remain relevant?
+4:32 PM Brady Thrift (to All): I saw that same e-mail :)
+4:33 PM To All: https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf
+4:35 PM To All: https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1
+4:39 PM To All: Workshop: https://workshops.aws/
+4:39 PM To All: EKS: https://www.eksworkshop.com/
+4:41 PM Brady Thrift (to All): Thanks Dipen!
+4:41 PM Prashant Desai (to All): Thanks Dipen
+4:41 PM Prashanth Boovaragavan (to All): Thanks Dipen
+4:41 PM Jiaqi Wang (to All): Thanks Dipen
+4:41 PM Ethan Solom (to All): Thanks Dipen!
+4:42 PM Michael DiGiorgio (to All): Thanks Dipen
+4:42 PM Raisa Parveen Syeda (to All): Thanks Dipen!
+4:42 PM Saurabh Bhalla (to All): Thanks Dipen!
+4:42 PM Sajid Nizami (to All): Thanks and take care :)
+4:42 PM Joseph Tran (to All): great, thank you! this was great training
+4:42 PM Joseph Tran (to All): all done
+4:42 PM To All: Thanks every one......
+4:42 PM To All: Thanks Joe....
+4:44 PM To Prashanth Boovaragavan (PRIVATE): I am creating another lab environment for you which will start tomorrow from 9AM  FRI to 6PM  SUN.
+4:44 PM Prashanth Boovaragavan (PRIVATE): Thanks a lot Dipen.
