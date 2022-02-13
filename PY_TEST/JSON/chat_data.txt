@@ -1,288 +1,612 @@
-6:52 AMTo All:
+7:51 AMTo All:
 >>>>> MODULE 07: Networking
 
-6:58 AMTo All:
-Good Morning
+8:01 AMJeff Geray (to All):
++1
 
-7:00 AMKevin Jung (to All):
-good morning!!
+8:28 AMThomas Savini (to All):
+b
 
-7:01 AMKevin Jung (to All):
-increases Pod's cpu/mem allocated
+8:28 AMDeepak Giriraddi (to All):
+ab?
 
-7:08 AMTo All:
-http://cidr.xyz
+8:28 AMJeff Geray (to All):
+ae
 
-7:09 AMKevin Jung (to All):
-11
+8:29 AMMukesh Khandelwal (to All):
+A & ?
 
-7:15 AMharshaka perera (to All):
-local host : port
+8:29 AMVictor Victor (to All):
+AE
 
-7:15 AMKevin Jung (to All):
-IP
+8:29 AMAditya Desai (to All):
+AE
 
-7:15 AMharshaka perera (to All):
-veth tunel
+8:29 AMSabitha Anugu (to All):
+ae
 
-7:19 AMKevin Jung (to All):
-Load balancer
+8:29 AMNaresh Brahmbhatt (to All):
+a d
 
-7:19 AMTom Campbell (to All):
-service
+8:35 AMVictor Victor (to All):
+will you share the slides you use here with us?
 
-7:19 AMAniekan Akpaffiong (to All):
-NodePort service
+8:38 AMPodupuganti K Rao (to All):
+Is it necessary to have service mesh to manage service to service communication??
 
-7:19 AMTo All:
---------------------
+8:43 AMTo All:
+Slides are available as books on GilmoreGlobal
 
-7:19 AMKevin Jung (to All):
-A
+8:43 AMTo All:
+https://evantage.gilmoreglobal.com/
 
-7:20 AMTom Campbell (to All):
-a,e
+8:44 AMTo All:
+@ PK..... ServiceMesh is optional, but it brings additional ability/functionality... In terms of additional layer of security, B/G Deployment, Controlling the type of requests, etc
 
-7:20 AMKevin Jung (to All):
-E
-
-7:20 AMAniekan Akpaffiong (to All):
-pod
-
-7:21 AMSri Harish Kandula (to All):
-A,D
-
-7:21 AMharshaka perera (to All):
-A & B
-
-7:25 AMTo All:
+8:45 AMTo All:
 >>>>> MODULE 08: Security_authentication
 
-7:31 AMTo All:
-I apologize, somehow my powerpoint is crashing.... let me restart it...
+8:46 AMPodupuganti K Rao (to All):
+ok thx Dipen
 
-7:40 AMKevin Jung (to All):
-IAM
+8:46 AMVictor Victor (to All):
+Thanks!
 
-7:40 AMNeil Pettice (to All):
-Service Roles
+8:53 AMJeff Geray (to All):
+3
 
-7:41 AMKevin Jung (to All):
-kubernetes's RBAC
+8:53 AMMukesh Khandelwal (to All):
+not understanding question
 
-7:54 AMTo All:
+8:53 AMJeff Geray (to All):
+:-) console, cli, sdk?
+
+8:53 AMSabitha Anugu (to All):
+iam users, sso, thirdparty
+
+8:53 AMMukesh Khandelwal (to All):
+ok 3
+
+8:54 AMThomas Savini (to All):
+Roles
+
+8:54 AMVictor Victor (to All):
+RBAC
+
+8:54 AMNaresh Brahmbhatt (to All):
+roles
+
+8:55 AMryan ryan (to All):
+policies
+
+8:59 AMVictor Victor (to All):
+Is the 'IAM Authenticator for Kubernetes" installed on EKS control plane?
+
+9:07 AMryan ryan (to All):
+allow all actions
+
+9:07 AMThomas Savini (to All):
+not restricted
+
+9:08 AMryan ryan (to All):
+'you did not specify resources
+
+9:08 AMryan ryan (to All):
+in that case then admin
+
+9:08 AMryan ryan (to All):
+no
+
+9:10 AMryan ryan (to All):
+denied
+
+9:10 AMSabitha Anugu (to All):
+allow
+
+9:10 AMJeff Geray (to All):
+allow
+
+9:11 AMPodupuganti K Rao (to All):
+allow
+
+9:11 AMDeepak Giriraddi (to All):
+allow
+
+9:11 AMThomas Savini (to All):
+Deny
+
+9:11 AMNaresh Brahmbhatt (to All):
+denied..
+
+9:11 AMNita Nita (to All):
+denied
+
+9:12 AMryan ryan (to All):
+yep
+
+9:12 AMThomas Savini (to All):
+Yes
+
+9:12 AMThomas Savini (to All):
+Ironman
+
+9:14 AMPodupuganti K Rao (to All):
+can a user assume multiple roles at one point of time
+
+9:15 AMPodupuganti K Rao (to All):
+ok thx
+
+9:23 AMNaresh Brahmbhatt (to All):
+d
+
+9:23 AMTo All:
 --------------------
 
-7:54 AMNeil Pettice (to All):
-RBAC Role
-
-7:54 AMKevin Jung (to All):
-RBAC Role
-
-7:55 AMNeil Pettice (to All):
-Sorry, was getting coffee :D
-
-7:55 AMNeil Pettice (to All):
-Role Binding
-
-7:56 AMKevin Jung (to All):
-RBAC Group
-
-8:03 AMTom Campbell (to All):
+9:23 AMryan ryan (to All):
 d
 
-8:03 AMKevin Jung (to All):
-D~~
-
-8:04 AMclint harris (to All):
-d
-
-8:20 AMTo All:
---------------------
-
-8:20 AMKevin Jung (to All):
-A C
-
-8:20 AMTom Campbell (to All):
-a,c
-
-8:21 AMNeil Pettice (to All):
-a,c
-
-8:22 AMTo All:
---------------------
-
-8:23 AMKevin Jung (to All):
-D...
-
-8:23 AMNeil Pettice (to All):
-d
-
-8:23 AMTom Campbell (to All):
-d
-
-8:23 AMharshaka perera (to All):
+9:23 AMPodupuganti K Rao (to All):
 D
 
-8:23 AMTo All:
+9:23 AMDeepak Giriraddi (to All):
+d
+
+9:24 AMThomas Savini (to All):
+authoriz
+
+9:24 AMVictor Victor (to All):
+permission
+
+9:24 AMMukesh Khandelwal (to All):
+policy
+
+9:24 AMVictor Victor (to All):
+allow/deny statement
+
+9:24 AMMukesh Khandelwal (to All):
+action and resources
+
+9:24 AMPodupuganti K Rao (to All):
+resource and the respective permissions
+
+9:26 AMVictor Victor (to All):
+A
+
+9:26 AMThomas Savini (to All):
+B
+
+9:26 AMNita Nita (to All):
+B
+
+9:26 AMDeepak Giriraddi (to All):
+b
+
+9:26 AMSabitha Anugu (to All):
+B
+
+9:26 AMVictor Victor (to All):
+B
+
+9:26 AMNaresh Brahmbhatt (to All):
+b
+
+9:27 AMTo All:
 --------------------
 
-8:24 AMNeil Pettice (to All):
-a,b,f
+9:27 AMNaresh Brahmbhatt (to All):
+what is role Binding
 
-8:25 AMTom Campbell (to All):
-a,b,c
+9:28 AMNaresh Brahmbhatt (to All):
+thx
 
-8:25 AMharshaka perera (to All):
-ABF
+9:35 AMVictor Victor (to All):
+if this person leaves the job, will we lose the root admin?
 
-8:25 AMKevin Jung (to All):
-a, c, d
+9:36 AMThomas Savini (to All):
+D
 
-8:28 AMTo All:
+9:36 AMVictor Victor (to All):
+D
+
+9:36 AMNaresh Brahmbhatt (to All):
+d
+
+9:37 AMNita Nita (to All):
+d
+
+9:37 AMryan ryan (to All):
+d
+
+9:37 AMSabitha Anugu (to All):
+d
+
+9:37 AMDeepak Giriraddi (to All):
+d
+
+9:37 AMMukesh Khandelwal (to All):
+d
+
+9:46 AMVictor Victor (to All):
+Thanks!
+
+9:49 AMThomas Savini (to All):
+IAM
+
+9:50 AMTo All:
 --------------------
 
-8:29 AMKevin Jung (to All):
-A B D E
+9:51 AMryan ryan (to All):
+iam rbac
 
-8:29 AMTom Campbell (to All):
-a,b,d,e
+9:51 AMNaresh Brahmbhatt (to All):
+K8s Roles?
 
-8:32 AMTo All:
-https://aws.qwiklabs.com/
+10:00 AMryan ryan (to All):
+sts
 
-9:06 AMTo All:
-brb
+10:02 AMryan ryan (to All):
+no
 
-9:13 AMTo All:
-back
+10:02 AMryan ryan (to All):
+depends on permissions
 
-9:31 AMTo All:
-We will be taking a break of 10 minutes at the end of lab 4.
+10:03 AMryan ryan (to All):
+trust policy
 
-9:34 AMKevin Jung (to All):
-perfect thanks
+10:04 AMryan ryan (to All):
+but teh pods all have a role and that role can be added to the trust right?
 
-9:34 AMAniekan Akpaffiong (to All):
-+1
+10:04 AMVictor Victor (to All):
+pods have a service account
 
-9:34 AMclint harris (to All):
-+1
+10:05 AMryan ryan (to All):
+aws-auth?
 
-9:41 AMTo All:
-brb
+10:05 AMVictor Victor (to All):
+can we bind service account to the assume role
 
-9:52 AMTo All:
-back
+10:06 AMryan ryan (to All):
+i give up lol what's the answer?
 
-10:59 AMTo All:
+10:10 AMryan ryan (to All):
+an open ID for each service account?
+
+10:10 AMryan ryan (to All):
+ok
+
+10:11 AMryan ryan (to All):
+how do different pods ssume different roles
+
+10:11 AMryan ryan (to All):
+is that possible
+
+10:12 AMryan ryan (to All):
+ah okm the role has the openid in the trust
+
+10:12 AMryan ryan (to All):
+gotcha
+
+10:14 AMTo All:
+--------------------
+
+10:15 AMVictor Victor (to All):
+BC
+
+10:15 AMThomas Savini (to All):
+AC
+
+10:15 AMNaresh Brahmbhatt (to All):
+CE
+
+10:15 AMPodupuganti K Rao (to All):
+ac
+
+10:16 AMAditya Desai (to All):
+AC
+
+10:16 AMDeepak Giriraddi (to All):
+ac
+
+10:17 AMTo All:
+--------------------
+
+10:18 AMPodupuganti K Rao (to All):
+d
+
+10:18 AMAditya Desai (to All):
+BE
+
+10:18 AMThomas Savini (to All):
+D
+
+10:18 AMDeepak Giriraddi (to All):
+d
+
+10:18 AMVictor Victor (to All):
+D
+
+10:18 AMMukesh Khandelwal (to All):
+d
+
+10:19 AMTo All:
+--------------------
+
+10:19 AMDeepak Giriraddi (to All):
+abc
+
+10:19 AMPodupuganti K Rao (to All):
+abc
+
+10:20 AMMukesh Khandelwal (to All):
+abc
+
+10:20 AMManish Manish (to All):
+ace
+
+10:20 AMVictor Victor (to All):
+abf
+
+10:20 AMNaresh Brahmbhatt (to All):
+ACF
+
+10:20 AMryan ryan (to All):
+abc
+
+10:20 AMThomas Savini (to All):
+ACF
+
+10:20 AMManish Manish (to All):
+sorry acd
+
+10:20 AMAditya Desai (to All):
+ABC
+
+10:20 AMSabitha Anugu (to All):
+acf
+
+10:23 AMTo All:
+--------------------
+
+10:23 AMryan ryan (to All):
+abde
+
+10:23 AMDeepak Giriraddi (to All):
+abde
+
+10:24 AMVictor Victor (to All):
+ABDE
+
+10:24 AMAditya Desai (to All):
+ABDE
+
+10:24 AMPodupuganti K Rao (to All):
+abde
+
+10:24 AMSabitha Anugu (to All):
+abde
+
+10:24 AMNaresh Brahmbhatt (to All):
+ABDE
+
+10:24 AMryan ryan (to All):
+is it right though?
+
+10:27 AMryan ryan (to All):
+almost lucnh time
+
+10:27 AMryan ryan (to All):
+lol
+
+10:28 AMDeepak Giriraddi (to All):
+ok
+
+10:28 AMVictor Victor (to All):
+YES
+
+10:28 AMAditya Desai (to All):
+ok
+
+10:28 AMThomas Savini (to All):
+Yes
+
+10:28 AMPodupuganti K Rao (to All):
+yup
+
+10:28 AMryan ryan (to All):
+ok, sounds good
+
+10:28 AMMukesh Khandelwal (to All):
+lab is not enabled yet
+
+10:30 AMTo All:
 >>>>> MODULE 09: Security_workflows
 
-11:06 AMNeil Pettice (to All):
-+1
+10:47 AMDeepak Giriraddi (to All):
+yes
 
-11:06 AMKevin Jung (to All):
-I do
+10:53 AMNaresh Brahmbhatt (to All):
+no
 
-11:19 AMNeil Pettice (to All):
-+1
+10:53 AMVictor Victor (to All):
+not yet, we use aws serect manager for now
 
-11:22 AMTom Campbell (to All):
-c
+10:57 AMTo All:
+--------------------
 
-11:22 AMNeil Pettice (to All):
-c
-
-11:22 AMKevin Jung (to All):
+10:57 AMAditya Desai (to All):
 C
 
-11:23 AMKevin Jung (to All):
-still here
+10:57 AMThomas Savini (to All):
+C -
 
-11:23 AMTo All:
+10:57 AMNita Nita (to All):
+c
+
+10:57 AMJeff Geray (to All):
+c
+
+10:57 AMNaresh Brahmbhatt (to All):
+c
+
+11:57 AMTo All:
+https://aws.qwiklabs.com/ 
+
+Labs are warmed up and ready.... If anyone is intersted in starting.
+
+12:01 PMPodupuganti K Rao (to All):
+Dipen - can u pls extend the lab time...need to join meetings in between....Thx
+
+12:02 PMTo All:
+@ Pk... sure
+
+12:02 PMPodupuganti K Rao (to All):
+Thank you
+
+12:02 PMTo All:
+Once someone starts the lab, then clock starts..... Usually user gets two hours from start time.
+
+12:02 PMTo All:
+once you start and then if extension is required, then I can do it.
+
+12:59 PMTo All:
 >>>>> MODULE 10: Upgrades
 
-11:43 AMTom Campbell (to All):
-d
+1:13 PMThomas Savini (to All):
+Do the updates need to be done in the Console?
 
-11:43 AMKevin Jung (to All):
-d
+1:13 PMThomas Savini (to All):
+Disregard
 
-11:46 AMTo All:
+1:22 PMryan ryan (to All):
+yep
+
+1:22 PMThomas Savini (to All):
+Yes
+
+1:31 PMTo All:
 --------------------
 
-11:46 AMKevin Jung (to All):
-B
+1:31 PMVictor Victor (to All):
+A
 
-11:46 AMTom Campbell (to All):
-b
+1:31 PMAditya Desai (to All):
+A
 
-11:46 AMclint harris (to All):
-b
+1:31 PMNita Nita (to All):
+a
 
-11:47 AMTo All:
+1:32 PMNaresh Brahmbhatt (to All):
+A
+
+1:32 PMThomas Savini (to All):
+a
+
+1:32 PMDeepak Giriraddi (to All):
+D
+
+1:32 PMryan ryan (to All):
+d
+
+1:34 PMTo All:
 --------------------
 
-11:47 AMTom Campbell (to All):
+1:34 PMDeepak Giriraddi (to All):
+ab?
+
+1:34 PMThomas Savini (to All):
+ab
+
+1:34 PMryan ryan (to All):
+ab
+
+1:34 PMVictor Victor (to All):
+ab
+
+1:34 PMManish Manish (to All):
+AC
+
+1:35 PMTo All:
+--------------------
+
+1:36 PMDeepak Giriraddi (to All):
 b
 
-11:47 AMKevin Jung (to All):
-B
+1:36 PMThomas Savini (to All):
+a
 
-11:48 AMTo All:
+1:36 PMryan ryan (to All):
+a
+
+1:36 PMMukesh Khandelwal (to All):
+A
+
+1:36 PMVictor Victor (to All):
+B?
+
+1:36 PMManish Manish (to All):
+A
+
+1:36 PMMukesh Khandelwal (to All):
+has to be within one minor version for it to work
+
+1:39 PMTo All:
 @ ALL... IMPORTANT... to complete evaluation... 1) Use link available in your email. 2) Login to below link and click "Evaluate" >> Link: https://aws.training/Account/Transcript/Archived
 
-11:52 AMSri Harish Kandula (PRIVATE):
-When will we get the redeem code for reading material?
+1:50 PMTo All:
+https://aws.qwiklabs.com/
 
-11:53 AMTo Sri Harish Kandula (PRIVATE):
-It was sent via email on day 1.
+2:02 PMPodupuganti K Rao (to All):
+@Dipen - Why port number is used in step 47/48 (Lab4) to connect to backend service even after having service mesh...
 
-11:54 AMTo All:
-Lab URL: https://aws.qwiklabs.com/
+2:03 PMTo All:
+let me check
 
-11:54 AMSri Harish Kandula (PRIVATE):
-I was referring to https://evantage.gilmoreglobal.com/#/
+2:04 PMTo All:
+@ PK... which lab you are working on?
 
-11:54 AMSri Harish Kandula (PRIVATE):
-As I don't see any codes for it
+2:04 PMPodupuganti K Rao (to All):
+this is from previous one...Lab 4
 
-11:55 AMTo Sri Harish Kandula (PRIVATE):
-Books: https://evantage.gilmoreglobal.com/ 
-License Code: QJMMYJEUR5HN4RGES2SR
+2:07 PMTo All:
+Oh, Ok.... In this lab, we are deploying a clusterIP service. But we are also running that service on Port 9080. So from host, to send traffic directly to service, need to user localhost:port number
 
-11:55 AMTo Sri Harish Kandula (PRIVATE):
-I am resending email as well.
+2:15 PMPodupuganti K Rao (to All):
+hmm...aren't we calling rock service from within dj container......which ideally should be able to detect using the name rock.prodapp..and route the traffic
 
-11:56 AMTo Sri Harish Kandula (PRIVATE):
-Please confirm if you get it
+2:20 PMTo All:
+In this case, we are trying to generate a response by invoking code running on the same pod. 
 
-11:56 AMSri Harish Kandula (PRIVATE):
-Yes I am able to access the books now
+Review Step # 47
 
-11:56 AMSri Harish Kandula (PRIVATE):
-Thanks for the help
+2:26 PMPodupuganti K Rao (to All):
+ok thanks
 
-11:56 AMTo Sri Harish Kandula (PRIVATE):
+2:35 PMThomas Savini (to All):
+Thank you Dipen, it was a pleasure
+
+2:35 PMJeff Geray (to All):
+Thank you!
+
+2:35 PMSabitha Anugu (to All):
+thank you Dipen
+
+2:35 PMryan ryan (to All):
+thanks! happy thanksgiving!!
+
+2:36 PMDeepak Giriraddi (to All):
+Thank you Dipen for a wonderful interactive class...
+
+2:36 PMTo All:
+Thanks Thomas, Jeff, Sabitha, Ryan and Deepak.
+
+2:38 PMNita Nita (to All):
+thank you Dipen
+
+2:38 PMPodupuganti K Rao (to All):
+Thank you Dipen...learnt new things...Have a good evening!!!!
+
+2:38 PMTo All:
+Thanks Nita.... Thanks PK
+
+2:38 PMTo All:
 👍
-
-12:07 PMTom Campbell (to All):
-cute, "Wesley Cluster"
-
-12:10 PMTo All:
-😀😀
-
-12:22 PMKevin Jung (to All):
-eval done~~
-
-12:23 PMKevin Jung (to All):
-great job Dipen. You helped me clear many things for me.
-
-12:23 PMTo All:
-@ Kevin... thanks a lot for being here....
-
-12:41 PMAniekan Akpaffiong (to All):
-Thank you Dipen! Great class.
-
-12:42 PMTo All:
-@Aniekan... thanks...

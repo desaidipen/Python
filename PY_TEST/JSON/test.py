@@ -1,11 +1,11 @@
-import json
+a = 'from Dipen Desai to Everyone:    8:51  AM >>>>> MODULE 00: Architecting-on-AWS-Introduction'
 
-rPath = "/Users/ddesai/dd/python/Python/PY_TEST/JSON/newrelic.json"
+# print (a)
+# b = a.split(":")[1].lstrip() + ":00"
+# t = a.split(":")[1].lstrip()
+# print ("++{}++".format(b))
 
-# Read File (File context is in YAML format)
-cValue = open(rPath, "r")
-fRead = cValue.read()
-cValue.close()
-
-val = json.loads(fRead)
-print ("Image Tag (JSON): {}".format(val["applications"][0]["id"]))
+b = a.split(":")
+t = b[2].split(" ")[2]
+print(b[1].lstrip())
+print (t)
